@@ -1,0 +1,7070 @@
+@media only screen and (min-width: 1400px) {
+  .container {
+    max-width: 1720px;
+    margin: 0 auto;
+  }
+}
+
+
+@media only screen and (min-width: 1366px) and (max-width: 1600px)  {
+  .container {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0px 60px;
+  }
+
+
+
+  .dashboard-right-content {
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-left: 30px solid #1d1d1d;
+    padding: 39px 33px;
+}
+
+ 
+.seller-table-container table .table-body-row td {
+  color: #fff;
+  text-wrap: nowrap;
+  font-size: 15px;
+}
+
+.seller-table-container table .table-body-row .product-detail-text {
+  text-wrap: nowrap;
+  font-size: 16px;
+}
+
+.checkout-dynamic-products-wrapper {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.checkout-sales-product-showcase-item-wrapper {
+  width: 50%;
+}
+
+.sm-navbar-wrapper .logo-container {
+  width: 100px;
+  height: 50px;
+}
+
+.sm-navbar-wrapper .login-signup-btn-container a {
+  font-size: 22px;
+  padding: 10px 20px;
+}
+
+.sneakers-title-text {
+  font-size: 24.752px;
+}
+
+.checkout-dynamic-product-text-container h3 {
+  font-size: 22.127px;
+}
+
+.checkout-dynamic-product-text-container h4 {
+  font-size: 18.814px;
+}
+
+.checkout-sales-payment-title {
+  font-size: 32px;
+  padding-bottom: 44px;
+}
+
+.checkout-sales-payment-option-wrapper
+  .checkout-sales-payment-left
+  .title-container
+  .labels-container
+  .total-items-text
+  span {
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+}
+
+.checkout-search-and-filter-wrapper .checkout-search-input input {
+  padding: 14px;
+}
+
+.checkout-search-and-filter-wrapper .checkout-select {
+    height: 45px;
+    background: white;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    border-radius: 2px;
+    border: 1px solid #fff;
+}
+
+.labels-container .nice-select {
+  height: 46px;
+  font-size: 18px !important;
+}
+
+.checkout-search-and-filter-wrapper .checkout-select .nice-select {
+  font-size: 18px !important;
+  padding-right: 40px;
+}
+
+.checkout-sales-payment-right .input-1 .nice-select {
+  height: 46px;
+  font-size: 18px !important;
+}
+
+.checkout-sales-payment-right .input-2 a {
+  padding: 11px 16px 15px 16px;
+}
+
+.checkout-sales-payment-right .input-3 a {
+  height: 46px;
+}
+
+
+.checkout-sales-payment-right .btn-container button {
+  border-radius: 2px;
+  padding: 9px;
+  font-size: 22px;
+}
+
+.product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+  font-size: 17px;
+}
+
+.product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+  font-size: 17px;
+}
+
+.product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+  font-size: 17px;
+}
+
+.product-uploaded-and-label-ordered-text .label-ordered-text span {
+  font-size: 17px;
+}
+
+.dashboard-left-sidebar {
+  width: 208px;
+  height: calc(100vh - 94px);
+}
+
+.seller-table-container {
+  height: 500px;
+  overflow-y: auto;
+}
+
+.dashboard-right-content {
+  width: 78%;
+  height: calc(100vh - 80px);
+  color: white;
+  border-left: 20px solid #1d1d1d;
+  padding: 20px;
+}
+
+.dashboard-left-sidebar {
+  width: 22%;
+  height: calc(100vh - 84px);
+}
+
+.accordion-button span h4 {
+  color: var(--Grey, #909090);
+  font-family: "Helvetica Neue";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.dashboard-menu-row a {
+  font-size: 17px;
+}
+
+.sm-dashboard-link h4 {
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .tracking-wrapper .box-active {
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+  padding: 12px 14px;
+  border-radius: 2px;
+  height: 94px;
+  gap: 12px;
+}
+.dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+  padding: 12px 14px;
+  border-radius: 2px;
+  height: 94px;
+  gap: 12px;
+}
+.dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+  padding: 12px 14px;
+  border-radius: 2px;
+  height: 94px;
+  gap: 12px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-1
+  .box-approved {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-2
+  .box-shipped {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-2
+  .box-arrived {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-3
+  .box-verified {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-3
+  .box-completed {
+    font-size: 16px;
+}
+
+.seller-table-container table tr th {
+  font-size: 19px;
+}
+
+.seller-table-container table .client-table-button-container .csv-button {
+  padding: 12px 24px;
+  font-size: 16px;
+}
+
+.seller-table-container table .client-table-button-container .details-button {
+  padding: 12px 18px;
+  font-size: 16px;
+}
+
+.seller-table-container table .client-table-button-container .cancel-button {
+  padding: 12px 18px;
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .dashboard-right-content-title {
+  font-size: 30px;
+}
+
+.seller-account-info-row-2 label {
+  font-size: 26px;
+}
+
+.seller-account-info-row-3 label {
+  font-size: 26px;
+}
+
+.seller-account-info-row-4 label {
+  font-size: 26px;
+}
+
+
+/* ========= hero section starts ============== */
+
+ .sm-hero-section-wrapper {
+  height: 560px;
+}
+
+.client-size-and-price-row .size-input {
+  border-radius: 2px;
+  background: #f5f5f5;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  padding: 1px;
+  padding-left: 0px;
+}
+
+.view-and-clear-all-container h4:first-child {
+font-size: 16px;
+}
+
+.hero-sell-today-btn-container{
+  display: flex;
+}
+
+.hero-image-container {
+  width: 420px;
+  height: 420px;
+  /* margin: 0 auto; */
+}
+
+.sm-hero-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  padding-top: 122px;
+  align-items: center;
+}
+
+.sm-hero-wrapper {
+  display: flex;
+  padding-top: 62px;
+  gap: 30px;
+}
+
+
+
+.sm-hero-wrapper .text-container h1 {
+  font-size: 56px;
+  padding-bottom: 38px;
+  padding-top: 28px;
+  line-height: 66px;
+}
+
+.sm-hero-wrapper .text-container h1 span {
+  font-size: 56px;
+  letter-spacing: +0.94px;
+}
+
+.sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+  font-size: 22px;
+  padding: 12px 46px;
+} 
+
+/* ========= hero section ends ============== */
+
+.sm-brands-section-wrapper h3 {
+  font-size: 50px;
+  padding-bottom: 48px;
+}
+
+.sm-brands-section-wrapper .brand-box h4 {
+  font-size: 28px;
+}
+
+.sm-brands-section-wrapper .brand-box {
+  padding: 16px 19px;
+}
+
+.trending-sneakers-wrapper h3 {
+  font-size: 50px;
+}
+
+.sm-trending-sneakers-wrapper {
+  grid-template-columns: repeat(5, 1fr);
+  gap: 22px;
+}
+
+.sm-trending-sneakers-wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.sm-join-discord-banner-wrapper {
+  height: 540px;
+}
+
+.sm-join-discord-banner-wrapper .text-container h3 {
+  font-size: 50px;
+}
+
+.sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+  font-size: 22px;
+}
+
+.sm-footer-wrapper .footer-left h4 {
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.sm-footer-wrapper .footer-middle {
+  width: 433px;
+  gap: 15px;
+}
+
+.login-left h2 {
+  font-size: 44px;
+  padding-top: 50px;
+}
+
+.login-left h2 span {
+  font-size: 44px;
+}
+
+.login-right .login-title {
+  font-size: 44px;
+}
+
+.login-right form input {
+  padding: 14px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.login-right form .login-btn button {
+  font-size: 22px;
+  padding: 12px 0px;
+  margin-top: 44px;
+}
+
+.login-right .google-login-container button {
+  font-size: 22px;
+  padding: 12px 0px;
+  margin: 20px 0px;
+}
+
+
+.seller-table-container table .seller-table-button-container button {
+  padding: 16px 18px;
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+  font-size: 16px;
+}
+
+.signup-left h2 span {
+  font-size: 40px;
+}
+
+.signup-left h2 {
+  font-size: 40px;
+  padding-top: 50px;
+}
+
+.signup-right .signup-title {
+  font-size: 42px;
+  padding-bottom: 32px;
+}
+
+.signup-right form input {
+  padding: 14px;
+  color: #808080;
+  font-size: 16px;
+}
+
+.signup-right {
+  background: #282828;
+  padding: 56px 40px;
+}
+
+.signup-left {
+  padding: 40px;
+  width: 419px;
+}
+
+.sm-signup-section-wrapper {
+  height: 770px;
+}
+
+.signup-right form .signup-btn button {
+  font-size: 22px;
+  padding: 12px 0px;
+}
+
+.signup-right .google-signup-container button {
+  font-size: 22px;
+  padding: 12px 0px;
+  margin-top: 30px;
+}
+
+.signup-yellow-circle-container {
+  background: linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%);
+  width: 212px;
+  height: 212px;
+  align-items: center;
+}
+
+
+
+}
+  
+
+
+/* laptop devices */
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+
+.seller-table-container table .table-body-row td {
+  color: #fff;
+  text-wrap: nowrap;
+  font-size: 15px;
+}
+
+.seller-table-container table .table-body-row .product-detail-text {
+  text-wrap: nowrap;
+  font-size: 16px;
+}
+
+.checkout-dynamic-products-wrapper {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.checkout-sales-product-showcase-item-wrapper {
+  width: 50%;
+}
+
+.sm-navbar-wrapper .logo-container {
+  width: 100px;
+  height: 50px;
+}
+
+.sm-navbar-wrapper .login-signup-btn-container a {
+  font-size: 22px;
+  padding: 10px 20px;
+}
+
+.sneakers-title-text {
+  font-size: 24.752px;
+}
+
+.checkout-dynamic-product-text-container h3 {
+  font-size: 22.127px;
+}
+
+.checkout-dynamic-product-text-container h4 {
+  font-size: 18.814px;
+}
+
+.checkout-sales-payment-title {
+  font-size: 32px;
+  padding-bottom: 44px;
+}
+
+.checkout-sales-payment-option-wrapper
+  .checkout-sales-payment-left
+  .title-container
+  .labels-container
+  .total-items-text
+  span {
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+}
+
+.checkout-search-and-filter-wrapper .checkout-search-input input {
+  padding: 14px;
+}
+
+.checkout-search-and-filter-wrapper .checkout-select {
+    height: 45px;
+    background: white;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    border-radius: 2px;
+    border: 1px solid #fff;
+}
+
+.labels-container .nice-select {
+  height: 46px;
+  font-size: 18px !important;
+}
+
+.checkout-search-and-filter-wrapper .checkout-select .nice-select {
+  font-size: 18px !important;
+  padding-right: 40px;
+}
+
+.checkout-sales-payment-right .input-1 .nice-select {
+  height: 46px;
+  font-size: 18px !important;
+}
+
+.checkout-sales-payment-right .input-2 a {
+  padding: 11px 16px 15px 16px;
+}
+
+.checkout-sales-payment-right .input-3 a {
+  height: 46px;
+}
+
+
+.checkout-sales-payment-right .btn-container button {
+  border-radius: 2px;
+  padding: 9px;
+  font-size: 22px;
+}
+
+.product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+  font-size: 17px;
+}
+
+.product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+  font-size: 17px;
+}
+
+.product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+  font-size: 17px;
+}
+
+.product-uploaded-and-label-ordered-text .label-ordered-text span {
+  font-size: 17px;
+}
+
+.dashboard-left-sidebar {
+  width: 208px;
+  height: calc(100vh - 94px);
+}
+
+.dashboard-right-content {
+  width: 78%;
+  height: 100%;
+  color: white;
+  border-left: 20px solid #1d1d1d;
+  padding: 20px;
+}
+
+.dashboard-left-sidebar {
+  width: 22%;
+  height: calc(100vh - 84px);
+}
+
+.accordion-button span h4 {
+  color: var(--Grey, #909090);
+  font-family: "Helvetica Neue";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.dashboard-menu-row a {
+  font-size: 17px;
+}
+
+.sm-dashboard-link h4 {
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .tracking-wrapper .box-active {
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+  padding: 12px 14px;
+  border-radius: 2px;
+  height: 94px;
+  gap: 12px;
+}
+.dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+  padding: 12px 14px;
+  border-radius: 2px;
+  height: 94px;
+  gap: 12px;
+}
+.dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+  padding: 12px 14px;
+  border-radius: 2px;
+  height: 94px;
+  gap: 12px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-1
+  .box-approved {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-2
+  .box-shipped {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-2
+  .box-arrived {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-3
+  .box-verified {
+    font-size: 16px;
+}
+
+.dashboard-right-content-wrapper
+  .tracking-wrapper
+  .box-container-3
+  .box-completed {
+    font-size: 16px;
+}
+
+.seller-table-container table tr th {
+  font-size: 19px;
+}
+
+.seller-table-container table .client-table-button-container .csv-button {
+  padding: 12px 24px;
+  font-size: 16px;
+}
+
+.seller-table-container table .client-table-button-container .details-button {
+  padding: 12px 18px;
+  font-size: 16px;
+}
+
+.seller-table-container table .client-table-button-container .cancel-button {
+  padding: 12px 18px;
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .dashboard-right-content-title {
+  font-size: 30px;
+}
+
+.seller-account-info-row-2 label {
+  font-size: 26px;
+}
+
+.seller-account-info-row-3 label {
+  font-size: 26px;
+}
+
+.seller-account-info-row-4 label {
+  font-size: 26px;
+}
+
+
+/* ========= hero section starts ============== */
+
+.sm-hero-section-wrapper {
+  height: 560px;
+}
+
+.client-size-and-price-row .size-input {
+  border-radius: 2px;
+  background: #f5f5f5;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  padding: 1px;
+  padding-left: 0px;
+}
+
+.view-and-clear-all-container h4:first-child {
+font-size: 16px;
+}
+
+.hero-sell-today-btn-container{
+  display: flex;
+}
+
+.hero-image-container {
+  width: 420px;
+  height: 420px;
+  margin: 0 auto;
+}
+
+.sm-hero-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  padding-top: 122px;
+  align-items: center;
+}
+
+.sm-hero-wrapper {
+  display: flex;
+  padding-top: 62px;
+  gap: 30px;
+}
+
+
+
+.sm-hero-wrapper .text-container h1 {
+  font-size: 56px;
+  padding-bottom: 38px;
+  padding-top: 28px;
+  line-height: 66px;
+}
+
+.sm-hero-wrapper .text-container h1 span {
+  font-size: 56px;
+  letter-spacing: +0.94px;
+}
+
+.sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+  font-size: 22px;
+  padding: 12px 46px;
+}
+
+/* ========= hero section ends ============== */
+
+.sm-brands-section-wrapper h3 {
+  font-size: 50px;
+  padding-bottom: 48px;
+}
+
+.sm-brands-section-wrapper .brand-box h4 {
+  font-size: 28px;
+}
+
+.sm-brands-section-wrapper .brand-box {
+  padding: 16px 19px;
+}
+
+.trending-sneakers-wrapper h3 {
+  font-size: 50px;
+}
+
+.sm-trending-sneakers-wrapper {
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+.sm-join-discord-banner-wrapper {
+  height: 540px;
+}
+
+.sm-join-discord-banner-wrapper .text-container h3 {
+  font-size: 50px;
+}
+
+.sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+  font-size: 22px;
+}
+
+.sm-footer-wrapper .footer-left h4 {
+  font-size: 18px;
+  padding-top: 20px;
+}
+
+.sm-footer-wrapper .footer-middle {
+  width: 433px;
+  gap: 15px;
+}
+
+.login-left h2 {
+  font-size: 44px;
+  padding-top: 50px;
+}
+
+.login-left h2 span {
+  font-size: 44px;
+}
+
+.login-right .login-title {
+  font-size: 44px;
+}
+
+.login-right form input {
+  padding: 14px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.login-right form .login-btn button {
+  font-size: 22px;
+  padding: 12px 0px;
+  margin-top: 44px;
+}
+
+.login-right .google-login-container button {
+  font-size: 22px;
+  padding: 12px 0px;
+  margin: 20px 0px;
+}
+
+
+.seller-table-container table .seller-table-button-container button {
+  padding: 16px 18px;
+  font-size: 16px;
+}
+
+.dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+  font-size: 16px;
+}
+
+.signup-left h2 span {
+  font-size: 40px;
+}
+
+.signup-left h2 {
+  font-size: 40px;
+  padding-top: 50px;
+}
+
+.signup-right .signup-title {
+  font-size: 42px;
+  padding-bottom: 32px;
+}
+
+.signup-right form input {
+  padding: 14px;
+  color: #808080;
+  font-size: 16px;
+}
+
+.signup-right {
+  background: #282828;
+  padding: 56px 40px;
+}
+
+.signup-left {
+  padding: 40px;
+  width: 419px;
+}
+
+.sm-signup-section-wrapper {
+  height: 770px;
+}
+
+.signup-right form .signup-btn button {
+  font-size: 22px;
+  padding: 12px 0px;
+}
+
+.signup-right .google-signup-container button {
+  font-size: 22px;
+  padding: 12px 0px;
+  margin-top: 30px;
+}
+
+.signup-yellow-circle-container {
+  background: linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%);
+  width: 212px;
+  height: 212px;
+  align-items: center;
+}
+
+
+
+}
+
+/* large tablet devices */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    
+  /* ========= navbar section starts ============= */
+  .home-text-span {
+    font-size: 22px;
+  }
+
+  .notif-text-span {
+    font-size: 22px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container {
+    gap: 44px;
+  }
+
+  .sm-navbar-wrapper .logo-container {
+    width: 110px;
+    height: 54px;
+  }
+
+  .sm-navbar-wrapper .login-signup-btn-container a {
+    font-size: 22px;
+    padding: 10px 24px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container li a svg {
+    width: 19;
+    height: 16;
+  }
+
+  /* ========= navbar section ends ============= */
+
+  /* ========= hero section starts ============== */
+
+  .sm-hero-section-wrapper {
+    height: 510px;
+  }
+
+  .client-size-and-price-row .size-input {
+    border-radius: 2px;
+    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    padding: 1px;
+    padding-left: 0px;
+}
+
+  .view-and-clear-all-container h4:first-child {
+  font-size: 16px;
+  }
+
+  .hero-sell-today-btn-container{
+    display: flex;
+  }
+
+  .hero-image-container {
+    width: 420px;
+    height: 420px;
+    margin: 0 auto;
+  }
+
+  .sm-hero-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding-top: 122px;
+    align-items: center;
+  }
+
+  .sm-hero-wrapper {
+    display: flex;
+    padding-top: 40px;
+    gap: 30px;
+  }
+
+  .sm-hero-wrapper .text-container h1 {
+    font-size: 44px;
+    padding-bottom: 28px;
+    padding-top: 28px;
+    line-height: 46px;
+  }
+
+  .sm-hero-wrapper .text-container h1 span {
+    font-size: 44px;
+    letter-spacing: +0.94px;
+  }
+
+  .sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+    font-size: 22px;
+    padding: 12px 46px;
+  }
+
+  /* ========= hero section ends ============== */
+
+  /* ========= brands section starts ============ */
+
+  .sm-brands-section-wrapper {
+    padding-top: 40px;
+    background: #1d1d1d;
+    padding-bottom: 42px;
+  }
+
+  .sm-brands-section-wrapper h3 {
+    font-size: 36px;
+    padding-bottom: 30px;
+  }
+
+  .sm-brands-wrapper {
+    gap: 18px;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .sm-brands-section-wrapper .brand-box {
+    padding: 16px 18px;
+  }
+
+  .sm-brands-section-wrapper .brand-box h4 {
+    font-size: 24px;
+  }
+
+  /* ========= brands section ends ============ */
+
+  /* ============ sneakers box section starts ========= */
+
+  .trending-sneakers-wrapper .view-all-btn-container a {
+    font-size: 18px;
+    padding: 11px 36px;
+  }
+
+  .trending-sneakers-wrapper h3 {
+    font-size: 36px;
+  }
+
+  .trending-title-wrapper {
+    padding-bottom: 34px;
+  }
+
+  .sm-trending-sneakers-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sell-btn-container
+    a {
+    font-size: 18.6px;
+    padding: 12.5px 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sneakers-title-text {
+    font-size: 23px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .text-container p {
+    font-size: 16px;
+    padding-bottom: 24px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .image-container img {
+    width: 90%;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .image-container {
+    width: 100%;
+    background: #fff;
+    padding: 0px 0px;
+    padding: 20px 14px;
+    display: flex;
+    justify-content: center;
+  }
+
+  /* ============ sneakers box section ends ========= */
+
+  /* =========== join discord section starts ========= */
+
+  .sm-join-discord-banner-wrapper {
+    height: 360px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container {
+    padding-left: 40px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container span {
+    font-size: 26px;
+    padding-bottom: 12px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 {
+    font-size: 36px;
+    padding-bottom: 14px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 .color-text {
+    font-size: 36px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+    font-size: 22px;
+    padding: 10px 26px;
+  }
+
+  .sm-join-discord-banner-section-wrapper {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  /* =========== join discord section ends ========= */
+
+  /* =========== footer section starts ============= */
+
+  footer {
+    background-color: #111;
+    padding: 20px 0px 40px 0px;
+  }
+
+  .sm-footer-wrapper .footer-left h4 {
+    font-size: 14px;
+    padding-top: 12px;
+  }
+
+  .sm-footer-wrapper .footer-middle {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    gap: 12px;
+  }
+
+  .sm-footer-wrapper {
+    gap: 20px;
+  }
+
+  /* =========== footer section ends ============= */
+
+  /* ============ checkout page starts ========== */
+
+
+  .checkout-sales-section-wrapper {
+    gap: 24px;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-image-container img {
+    width: 75%;
+  }
+
+  .checkout-image-container {
+    background: #fff;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .size-and-price-container .size-wrapper .size-box-wrapper .box {
+    text-align: center;
+    border-radius: 2px;
+    background: #f5f5f5;
+    margin-bottom: 9.5px;
+    width: 100%;
+    padding: 5px 2px 5px 2px;
+  }
+
+  .checkout-sales-payment-option-section-container {
+    padding-bottom: 40px;
+  }
+
+  .checkout-sales-product-showcase-item-wrapper {
+    width: 75%;
+  }
+
+  .checkout-dynamic-products-wrapper {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+
+  .checkout-dynamic-product-text-container h4 {
+    font-size: 15.814px;
+  }
+
+  .checkout-dynamic-product-text-container {
+    padding: 20px 10px 30px 10px;
+    background: #eee;
+  }
+
+  .checkout-dynamic-product-text-container h3 {
+    font-size: 20.127px;
+  }
+
+  .sneakers-title-text {
+    font-size: 23.752px;
+  }
+
+  .checkout-text-container p {
+    padding-bottom: 24px;
+    font-size: 16px;
+  }
+
+  /* ===== submit form ========= */
+
+  .checkout-sales-payment-option-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-right {
+    padding: 32px 20px 34px 20px;
+    width: 100%;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-left {
+    padding: 20px 20px;
+    width: 100%;
+    color: white;
+  }
+
+  .labels-container .nice-select {
+    width: 145px !important;
+    height: 40px;
+    font-size: 15px !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .labels-li-text {
+    font-size: 12px;
+    list-style: disc !important;
+    display: inline-block;
+    padding-left: 0px;
+    padding-top: 2px;
+    width: 76%;
+    text-indent: -0px;
+    padding-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+  .checkout-sales-payment-left
+  .title-container
+  .labels-container
+  h4 {
+  font-size: 18px;
+  padding-bottom: 6px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h4 {
+    font-size: 28px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h3 {
+    font-size: 18px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text
+    span {
+    font-size: 26px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text {
+    padding-bottom: 30px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text span {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+    font-size: 15px;
+  }
+
+  .checkout-sales-payment-title {
+    font-size: 28px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-right label {
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
+
+  .checkout-sales-payment-right .input-1 .nice-select {
+    border-radius: 2px !important;
+    color: #1d1d1d !important;
+    display: flex;
+    border: none;
+    height: 46px;
+    align-items: center;
+    font-family: "Bebas Neue" !important;
+    font-size: 17px !important;
+    font-style: normal !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+  }
+
+  .checkout-sales-payment-right .input-1 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-2 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-3 {
+    padding-bottom: 15px;
+  }
+
+  .checkout-sales-payment-right .input-2 a {
+    padding: 13px 12px 13px 12px;
+  }
+  .checkout-sales-payment-right .input-3 a {
+    height: 46px;
+  }
+
+  .checkout-sales-payment-right .btn-container button {
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 25px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select .nice-select {
+    font-size: 18px !important;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input input {
+    padding: 16px;
+    width: 100%;
+    padding-right: 50px;
+    font-size: 16px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select {
+    height: 49px;
+  }
+
+  .checkout-search-and-filter-wrapper {
+    gap: 24px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-search-input {
+    justify-content: left;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .seller-price-title-container {
+    display: flex;
+    padding-left: 60px;
+  }
+
+  .size-and-price-container .seller-price-wrapper h3 {
+    color: #1d1d1d;
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    width: 100%;
+    display: block;
+    gap: 50px;
+    padding-bottom: 6px;
+  }
+
+  /* ============ checkout page ends ========== */
+
+  /* ============ dashboard css starts ============ */
+
+  .dashboard-left-sidebar {
+    width: 30%;
+    position: absolute;
+    height: calc(100vh - 74px);
+    padding-top: 26px;
+    transform: translateX(-100%);
+    transition: ease-in-out 0.4s;
+  }
+
+  .dashboard-menu-row {
+    padding-bottom: 28px;
+  }
+
+  .sm-dashboard-link {
+    padding-bottom: 24px;
+  }
+
+  .dashboard-right-content {
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-left: 0px solid #1d1d1d;
+    padding: 20px 10px;
+  }
+
+  .status-svg-container {
+    text-wrap: nowrap;
+  }
+
+  .seller-dashboard-wrapper {
+    display: flex;
+    position: relative;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 20px 5px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    gap: 14px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    gap: 14px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    gap: 14px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    height: 80px;
+    padding: 14px 14px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    height: 80px;
+    padding: 14px 14px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    height: 80px;
+    padding: 14px 14px;
+  }
+
+  .dashboard-right-content-wrapper .dashboard-right-content-title {
+    font-size: 26px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+    font-size: 15px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-active {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-arrived {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-verified {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-completed {
+    font-size: 15px;
+  }
+
+  .seller-table-container table .table-body-row .product-detail-text {
+    text-wrap: nowrap;
+  }
+
+  .seller-table-container table .seller-table-button-container {
+    display: flex;
+    gap: 14px;
+  }
+
+  .dashboard-right-title-and-nav-icon-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .dashboard-right-title-and-nav-icon-container svg {
+    width: 22px;
+    height: 22px;
+    fill: white;
+  }
+
+  .dashboard-nav-icon-container {
+    padding: 5px 5px;
+    border-radius: 5px;
+    background: var(
+      --Gradient,
+      linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seller-table-container table tr th {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .table-heading {
+    height: 60px;
+  }
+
+  .seller-table-container table .table-body-row td {
+    font-size: 14px;
+    padding: 16px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .csv-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .details-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .cancel-button {
+    font-size: 14px;
+  }
+
+  .sm-dashboard-link h4 {
+    font-size: 16px;
+  }
+
+  .dashboard-menu-row a {
+    font-size: 17px;
+  }
+
+  .seller-table-container table .client-table-button-container {
+    gap: 20px;
+  }
+
+  .accordion-button span h4 {
+    font-size: 17px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-1
+    .box-approved {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-shipped {
+    font-size: 15px;
+  }
+
+  /* ============ dashboard css ends ============ */
+
+  /* ============= accoount page css starts =========== */
+
+  .account-image-container {
+    height: 170px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-image-container {
+    width: 100px;
+    height: 100px;
+  }
+
+  .account-profile-image-and-text-container {
+    bottom: -80px;
+    gap: 10px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-text-container h4 {
+    font-size: 22px;
+  }
+
+  .seller-account-info-row-3 {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-row-4 {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .seller-account-info-row-2 {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-container {
+    padding: 28px 18px;
+    margin-top: 120px;
+  }
+
+  .seller-account-info-row-2 label {
+    font-size: 18px;
+    padding-bottom: 14px;
+  }
+
+  .seller-account-info-row-3 label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-4 label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-2 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .seller-account-info-row-3 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .seller-account-info-row-4 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .account-info-edit-btn-container svg {
+    width: 22px !important;
+    height: 22px !important;
+  }
+
+  .seller-account-info-row-1 .account-info-edit-btn-container span {
+    font-size: 18px;
+  }
+
+  .seller-account-info-row-4 select {
+    padding: 11px 19px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container {
+    width: 36px;
+    height: 36px;
+    margin-right: -219px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container svg {
+    fill: white;
+  }
+
+  /* ============= accoount page css ends  =========== */
+
+  /* ============= sign up page css starts ============ */
+
+  .sm-signup-wrapper {
+    flex-direction: row;
+    padding: 40px 0px;
+  }
+
+  .signup-left {
+    background: #111;
+    padding: 52px;
+    width: 100%;
+  }
+
+  .signup-left h2 {
+    font-size: 34px;
+    padding-top: 20px;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .signup-left h2 span {
+    font-size: 34px;
+  }
+
+  .signup-right .signup-title {
+    font-size: 34px;
+    padding-bottom: 16px;
+  }
+
+  .signup-right form input {
+    padding: 14px;
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+
+  .signup-left {
+    padding: 28px;
+  }
+
+  .signup-right .signup-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right .signup-btn-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .sm-signup-section-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .signup-right form .signup-btn button {
+    font-size: 22px;
+    padding: 14px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right .google-signup-container button {
+    font-size: 22px;
+    padding: 14px 0px;
+    margin-top: 30px;
+  }
+
+  .signup-right form label {
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
+
+  .signup-right li {
+    font-size: 12px;
+    padding-top: 16px;
+    text-indent: -20px;
+    padding-left: 23px;
+  }
+
+  /* ============= sign up page css ends ============ */
+
+  /* ============ login css starts ================= */
+
+  .sm-login-section-wrapper {
+    height: 100%;
+  }
+
+  .sm-login-wrapper {
+    flex-direction: row;
+    padding: 40px 0px;
+  }
+
+  .login-left {
+    padding: 78px;
+    padding-top: 99px;
+  }
+
+  .login-left h2 {
+    font-size: 34px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .login-left h2 span {
+    font-size: 34px;
+  }
+
+  .login-yellow-circle-container {
+    width: 320px;
+    height: 320px;
+  }
+
+  .signup-yellow-circle-container {
+    width: 320px;
+    height: 320px;
+  }
+
+  .login-right {
+    padding: 36px 28px;
+    width: 100%;
+  }
+
+  .login-right .login-title {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+
+  .login-right form input {
+    padding: 14px;
+    font-size: 15px;
+    margin-bottom: 8px;
+  }
+
+  .login-right form label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .login-right form .login-btn button {
+    font-size: 20px;
+    padding: 14px 0px;
+    margin-top: 30px;
+  }
+
+  .login-right .google-login-container button {
+    font-size: 20px;
+    padding: 13px 0px;
+    margin: 20px 0px 10px 0px;
+  }
+
+  /* ============ login css ends ================= */
+
+  /* =========== notification modal css starts ========= */
+
+  .notification-modal-body {
+    padding: 28px 24px;
+    width: 100%;
+  }
+
+  .view-and-clear-all-container h4 {
+    font-size: 16px;
+  }
+
+  .notification-modal-body .notification-row {
+    padding: 20px 16px;
+    gap: 10px;
+    margin-bottom: 8px;
+  } 
+
+  .notification-modal-body .notification-row h4 {
+    font-size: 16px;
+  }
+
+  /* =========== notification modal css ends ========= */
+
+  /* =========== details modal css starts ============ */
+
+  .seller-details-modal-body {
+    background: #282828;
+    padding: 18px;
+    position: relative;
+    width: 100%;
+  }
+
+  .seller-details-modal-body .seller-total-title {
+    font-size: 26px;
+    padding-bottom: 24px;
+  }
+
+  .total-calculation-container .total-price {
+    font-size: 24px;
+  }
+
+  .seller-details-table-container {
+    overflow-x: scroll;
+  }
+
+  .seller-details-table-container table .product-name,
+  .product-size,
+  .product-pair {
+    font-size: 14px;
+    text-wrap: nowrap;
+  }
+
+  .seller-details-modal-close-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    margin-left: 10px;
+  }
+
+  .seller-details-table-heading th {
+    font-size: 16px;
+    text-wrap: nowrap;
+  }
+
+  .download-label-and-submit-btn-container {
+    gap: 8px;
+    padding-top: 20px;
+  }
+
+  .download-label-and-submit-btn-container .submit-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  .submit-btn-instruction-li-text {
+    font-size: 10px;
+    /* padding-top: 10px; */
+    text-indent: -13px;
+    width: 72%;
+    padding-left: 14px;
+  }
+
+  /* =========== details modal css ends ============ */
+
+  /* ============== checkout submit form modal ========== */
+
+  .download-label-and-submit-btn-container .download-label-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  /* ============== checkout submit form modal ========== */
+
+
+}
+
+/* medium tablet devices */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  
+  /* ========= navbar section starts ============= */
+  .home-text-span {
+    font-size: 18px;
+  }
+
+  .notif-text-span {
+    font-size: 18px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container {
+    gap: 44px;
+  }
+
+  .sm-navbar-wrapper .logo-container {
+    width: 80px;
+    height: 44px;
+  }
+
+  .sm-navbar-wrapper .login-signup-btn-container a {
+    font-size: 18px;
+    padding: 8px 16px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container li a svg {
+    width: 19;
+    height: 16;
+  }
+
+  /* ========= navbar section ends ============= */
+
+  /* ========= hero section starts ============== */
+
+  .sm-hero-section-wrapper {
+    height: 720px;
+  }
+
+  .client-size-and-price-row .size-input {
+    border-radius: 2px;
+    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    padding: 1px;
+    padding-left: 0px;
+}
+
+  .view-and-clear-all-container h4:first-child {
+  font-size: 16px;
+  }
+
+  .hero-sell-today-btn-container{
+    display: flex;
+  }
+
+  .hero-image-container {
+    width: 420px;
+    height: 420px;
+    margin: 0 auto;
+  }
+
+  .sm-hero-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding-top: 122px;
+  }
+
+  .sm-hero-wrapper {
+    flex-direction: column-reverse;
+    padding-top: 40px;
+    gap: 30px;
+  }
+
+  .sm-hero-wrapper .text-container h1 {
+    font-size: 40px;
+    padding-bottom: 28px;
+    padding-top: 28px;
+    line-height: 46px;
+  }
+
+  .sm-hero-wrapper .text-container h1 span {
+    font-size: 40px;
+    letter-spacing: +0.94px;
+  }
+
+  .sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+    font-size: 19px;
+    padding: 12px 46px;
+  }
+
+  /* ========= hero section ends ============== */
+
+  /* ========= brands section starts ============ */
+
+  .sm-brands-section-wrapper {
+    padding-top: 40px;
+    background: #1d1d1d;
+    padding-bottom: 42px;
+  }
+
+  .sm-brands-section-wrapper h3 {
+    font-size: 32px;
+    padding-bottom: 22px;
+  }
+
+  .sm-brands-wrapper {
+    gap: 18px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .sm-brands-section-wrapper .brand-box {
+    padding: 16px 18px;
+  }
+
+  .sm-brands-section-wrapper .brand-box h4 {
+    font-size: 22px;
+  }
+
+  /* ========= brands section ends ============ */
+
+  /* ============ sneakers box section starts ========= */
+
+  .trending-sneakers-wrapper .view-all-btn-container a {
+    font-size: 18px;
+    padding: 8px 30px;
+  }
+
+  .trending-sneakers-wrapper h3 {
+    font-size: 32px;
+  }
+
+  .trending-title-wrapper {
+    padding-bottom: 28px;
+  }
+
+  .sm-trending-sneakers-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sell-btn-container
+    a {
+    font-size: 18.6px;
+    padding: 12.5px 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sneakers-title-text {
+    font-size: 23px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .text-container p {
+    font-size: 16px;
+    padding-bottom: 24px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .image-container img {
+    width: 90%;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .image-container {
+    width: 100%;
+    background: #fff;
+    padding: 0px 0px;
+    padding: 20px 14px;
+    display: flex;
+    justify-content: center;
+  }
+
+  /* ============ sneakers box section ends ========= */
+
+  /* =========== join discord section starts ========= */
+
+  .sm-join-discord-banner-wrapper {
+    height: 268px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container {
+    padding-left: 20px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container span {
+    font-size: 24px;
+    padding-bottom: 12px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 {
+    font-size: 32px;
+    padding-bottom: 10px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 .color-text {
+    font-size: 32px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+    font-size: 18px;
+    padding: 10px 18px;
+  }
+
+  .sm-join-discord-banner-section-wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  /* =========== join discord section ends ========= */
+
+  /* =========== footer section starts ============= */
+
+  footer {
+    background-color: #111;
+    padding: 20px 0px 40px 0px;
+  }
+
+  .sm-footer-wrapper .footer-left h4 {
+    font-size: 14px;
+    padding-top: 12px;
+  }
+
+  .sm-footer-wrapper .footer-middle {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    gap: 12px;
+  }
+
+  .sm-footer-wrapper {
+    gap: 20px;
+  }
+
+  /* =========== footer section ends ============= */
+
+  /* ============ checkout page starts ========== */
+
+
+  .checkout-sales-section-wrapper {
+    gap: 24px;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-image-container img {
+    width: 75%;
+  }
+
+  .checkout-image-container {
+    background: #fff;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .size-and-price-container .size-wrapper .size-box-wrapper .box {
+    text-align: center;
+    border-radius: 2px;
+    background: #f5f5f5;
+    margin-bottom: 9.5px;
+    width: 100%;
+    padding: 5px 2px 5px 2px;
+  }
+
+  .checkout-sales-payment-option-section-container {
+    padding-bottom: 40px;
+  }
+
+  .checkout-sales-product-showcase-item-wrapper {
+    width: 100%;
+  }
+
+  .checkout-dynamic-products-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .checkout-dynamic-product-text-container h4 {
+    font-size: 15.814px;
+  }
+
+  .checkout-dynamic-product-text-container {
+    padding: 20px 10px 30px 10px;
+    background: #eee;
+  }
+
+  .checkout-dynamic-product-text-container h3 {
+    font-size: 20.127px;
+  }
+
+  .sneakers-title-text {
+    font-size: 23.752px;
+  }
+
+  .checkout-text-container p {
+    padding-bottom: 24px;
+    font-size: 16px;
+  }
+
+  /* ===== submit form ========= */
+
+  .checkout-sales-payment-option-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-right {
+    padding: 32px 20px 34px 20px;
+    width: 100%;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-left {
+    padding: 20px 20px;
+    width: 100%;
+    color: white;
+  }
+
+  .labels-container .nice-select {
+    width: 145px !important;
+    height: 40px;
+    font-size: 15px !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .labels-li-text {
+    font-size: 12px;
+    list-style: disc !important;
+    display: inline-block;
+    padding-left: 0px;
+    padding-top: 2px;
+    width: 76%;
+    text-indent: -0px;
+    padding-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+  .checkout-sales-payment-left
+  .title-container
+  .labels-container
+  h4 {
+  font-size: 18px;
+  padding-bottom: 6px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h4 {
+    font-size: 28px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h3 {
+    font-size: 18px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text
+    span {
+    font-size: 26px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text {
+    padding-bottom: 30px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text span {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+    font-size: 15px;
+  }
+
+  .checkout-sales-payment-title {
+    font-size: 28px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-right label {
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
+
+  .checkout-sales-payment-right .input-1 .nice-select {
+    border-radius: 2px !important;
+    color: #1d1d1d !important;
+    display: flex;
+    border: none;
+    height: 46px;
+    align-items: center;
+    font-family: "Bebas Neue" !important;
+    font-size: 17px !important;
+    font-style: normal !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+  }
+
+  .checkout-sales-payment-right .input-1 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-2 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-3 {
+    padding-bottom: 15px;
+  }
+
+  .checkout-sales-payment-right .input-2 a {
+    padding: 13px 12px 13px 12px;
+  }
+  .checkout-sales-payment-right .input-3 a {
+    height: 46px;
+  }
+
+  .checkout-sales-payment-right .btn-container button {
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 25px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select .nice-select {
+    font-size: 18px !important;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input input {
+    padding: 16px;
+    width: 100%;
+    padding-right: 50px;
+    font-size: 16px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select {
+    height: 49px;
+  }
+
+  .checkout-search-and-filter-wrapper {
+    gap: 24px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-search-input {
+    justify-content: left;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .seller-price-title-container {
+    display: flex;
+    padding-left: 60px;
+  }
+
+  .size-and-price-container .seller-price-wrapper h3 {
+    color: #1d1d1d;
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    width: 100%;
+    display: block;
+    gap: 50px;
+    padding-bottom: 6px;
+  }
+
+  /* ============ checkout page ends ========== */
+
+  /* ============ dashboard css starts ============ */
+
+  .dashboard-left-sidebar {
+    width: 40%;
+    position: absolute;
+    height: calc(100vh - 74px);
+    padding-top: 26px;
+    transform: translateX(-100%);
+    transition: ease-in-out 0.4s;
+}
+
+  .dashboard-menu-row {
+    padding-bottom: 28px;
+  }
+
+  .sm-dashboard-link {
+    padding-bottom: 24px;
+  }
+
+  .dashboard-right-content {
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-left: 0px solid #1d1d1d;
+    padding: 20px 10px;
+  }
+
+  .status-svg-container {
+    text-wrap: nowrap;
+  }
+
+  .seller-dashboard-wrapper {
+    display: flex;
+    position: relative;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 20px 5px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    gap: 14px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    gap: 14px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    gap: 14px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    height: 80px;
+    padding: 14px 14px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    height: 80px;
+    padding: 14px 14px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    height: 80px;
+    padding: 14px 14px;
+  }
+
+  .dashboard-right-content-wrapper .dashboard-right-content-title {
+    font-size: 26px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+    font-size: 15px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-active {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-arrived {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-verified {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-completed {
+    font-size: 15px;
+  }
+
+  .seller-table-container table .table-body-row .product-detail-text {
+    text-wrap: nowrap;
+  }
+
+  .seller-table-container table .seller-table-button-container {
+    display: flex;
+    gap: 14px;
+  }
+
+  .dashboard-right-title-and-nav-icon-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .dashboard-right-title-and-nav-icon-container svg {
+    width: 22px;
+    height: 22px;
+    fill: white;
+  }
+
+  .dashboard-nav-icon-container {
+    padding: 5px 5px;
+    border-radius: 5px;
+    background: var(
+      --Gradient,
+      linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seller-table-container table tr th {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .table-heading {
+    height: 60px;
+  }
+
+  .seller-table-container table .table-body-row td {
+    font-size: 14px;
+    padding: 16px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .csv-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .details-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .cancel-button {
+    font-size: 14px;
+  }
+
+  .sm-dashboard-link h4 {
+    font-size: 16px;
+  }
+
+  .dashboard-menu-row a {
+    font-size: 17px;
+  }
+
+  .seller-table-container table .client-table-button-container {
+    gap: 20px;
+  }
+
+  .accordion-button span h4 {
+    font-size: 17px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-1
+    .box-approved {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-shipped {
+    font-size: 15px;
+  }
+
+  /* ============ dashboard css ends ============ */
+
+  /* ============= accoount page css starts =========== */
+
+  .account-image-container {
+    height: 140px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-image-container {
+    width: 100px;
+    height: 100px;
+  }
+
+  .account-profile-image-and-text-container {
+    bottom: -80px;
+    gap: 10px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-text-container h4 {
+    font-size: 22px;
+  }
+
+  .seller-account-info-row-3 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-row-4 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+
+  .seller-account-info-row-2 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-container {
+    padding: 28px 18px;
+    margin-top: 120px;
+  }
+
+  .seller-account-info-row-2 label {
+    font-size: 18px;
+    padding-bottom: 14px;
+  }
+
+  .seller-account-info-row-3 label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-4 label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-2 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .seller-account-info-row-3 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .seller-account-info-row-4 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .account-info-edit-btn-container svg {
+    width: 22px !important;
+    height: 22px !important;
+  }
+
+  .seller-account-info-row-1 .account-info-edit-btn-container span {
+    font-size: 18px;
+  }
+
+  .seller-account-info-row-4 select {
+    padding: 11px 19px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container {
+    width: 34px;
+    height: 34px;
+    margin-right: -114px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container svg {
+    fill: white;
+  }
+
+  /* ============= accoount page css ends  =========== */
+
+  /* ============= sign up page css starts ============ */
+
+  .sm-signup-wrapper {
+    flex-direction: column;
+    padding: 40px 0px;
+  }
+
+  .signup-left {
+    background: #111;
+    padding: 52px;
+    width: 100%;
+  }
+
+  .signup-left h2 {
+    font-size: 34px;
+    padding-top: 20px;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .signup-left h2 span {
+    font-size: 34px;
+  }
+
+  .signup-right .signup-title {
+    font-size: 34px;
+    padding-bottom: 16px;
+  }
+
+  .signup-right form input {
+    padding: 14px;
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+
+  .signup-left {
+    padding: 28px;
+  }
+
+  .signup-right .signup-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right .signup-btn-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .sm-signup-section-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .signup-right form .signup-btn button {
+    font-size: 22px;
+    padding: 14px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right .google-signup-container button {
+    font-size: 22px;
+    padding: 14px 0px;
+    margin-top: 30px;
+  }
+
+  .signup-right form label {
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
+
+  .signup-right li {
+    font-size: 12px;
+    padding-top: 16px;
+    text-indent: -20px;
+    padding-left: 23px;
+  }
+
+  /* ============= sign up page css ends ============ */
+
+  /* ============ login css starts ================= */
+
+  .sm-login-section-wrapper {
+    height: 100%;
+  }
+
+  .sm-login-wrapper {
+    flex-direction: column;
+    padding: 40px 0px;
+  }
+
+  .login-left {
+    padding: 20px;
+    padding-top: 40px;
+  }
+
+  .login-left h2 {
+    font-size: 34px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .login-left h2 span {
+    font-size: 34px;
+  }
+
+  .login-yellow-circle-container {
+    width: 320px;
+    height: 320px;
+  }
+
+  .signup-yellow-circle-container {
+    width: 320px;
+    height: 320px;
+  }
+
+  .login-right {
+    padding: 36px 28px;
+    width: 100%;
+  }
+
+  .login-right .login-title {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+
+  .login-right form input {
+    padding: 14px;
+    font-size: 15px;
+    margin-bottom: 8px;
+  }
+
+  .login-right form label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .login-right form .login-btn button {
+    font-size: 20px;
+    padding: 14px 0px;
+    margin-top: 30px;
+  }
+
+  .login-right .google-login-container button {
+    font-size: 20px;
+    padding: 13px 0px;
+    margin: 20px 0px 10px 0px;
+  }
+
+  /* ============ login css ends ================= */
+
+  /* =========== notification modal css starts ========= */
+
+  .notification-modal-body {
+    padding: 28px 24px;
+    width: 100%;
+  }
+
+  .view-and-clear-all-container h4 {
+    font-size: 16px;
+  }
+
+  .notification-modal-body .notification-row {
+    padding: 20px 16px;
+    gap: 10px;
+    margin-bottom: 8px;
+  } 
+
+  .notification-modal-body .notification-row h4 {
+    font-size: 16px;
+  }
+
+  /* =========== notification modal css ends ========= */
+
+  /* =========== details modal css starts ============ */
+
+  .seller-details-modal-body {
+    background: #282828;
+    padding: 18px;
+    position: relative;
+    width: 100%;
+  }
+
+  .seller-details-modal-body .seller-total-title {
+    font-size: 26px;
+    padding-bottom: 24px;
+  }
+
+  .total-calculation-container .total-price {
+    font-size: 24px;
+  }
+
+  .seller-details-table-container {
+    overflow-x: scroll;
+  }
+
+  .seller-details-table-container table .product-name,
+  .product-size,
+  .product-pair {
+    font-size: 14px;
+    text-wrap: nowrap;
+  }
+
+  .seller-details-modal-close-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    margin-left: 10px;
+  }
+
+  .seller-details-table-heading th {
+    font-size: 16px;
+    text-wrap: nowrap;
+  }
+
+  .download-label-and-submit-btn-container {
+    gap: 8px;
+    padding-top: 20px;
+  }
+
+  .download-label-and-submit-btn-container .submit-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  .submit-btn-instruction-li-text {
+    font-size: 10px;
+    /* padding-top: 10px; */
+    text-indent: -13px;
+    width: 72%;
+    padding-left: 14px;
+  }
+
+  /* =========== details modal css ends ============ */
+
+  /* ============== checkout submit form modal ========== */
+
+  .download-label-and-submit-btn-container .download-label-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  /* ============== checkout submit form modal ========== */
+
+}
+
+/* small tablet devices */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+  
+  /* ========= navbar section starts ============= */
+  .home-text-span {
+    display: none;
+  }
+
+  .notif-text-span {
+    display: none;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container {
+    gap: 44px;
+  }
+
+  .sm-navbar-wrapper .logo-container {
+    width: 80px;
+    height: 44px;
+  }
+
+  .sm-navbar-wrapper .login-signup-btn-container a {
+    font-size: 18px;
+    padding: 8px 16px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container li a svg {
+    width: 19;
+    height: 16;
+  }
+
+  /* ========= navbar section ends ============= */
+
+  /* ========= hero section starts ============== */
+
+  .sm-hero-section-wrapper {
+    height: 620px;
+  }
+
+  .client-size-and-price-row .size-input {
+    border-radius: 2px;
+    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    justify-content: center;
+    padding: 1px;
+    padding-left: 0px;
+}
+
+  .view-and-clear-all-container h4:first-child {
+  font-size: 16px;
+  }
+
+  .hero-sell-today-btn-container{
+    display: flex;
+  }
+
+  .hero-image-container {
+    width: 340px;
+    height: 340px;
+    margin: 0 auto;
+  }
+
+  .sm-hero-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    padding-top: 122px;
+  }
+
+  .sm-hero-wrapper {
+    flex-direction: column-reverse;
+    padding-top: 40px;
+  }
+
+  .sm-hero-wrapper .text-container h1 {
+    font-size: 32px;
+    padding-bottom: 28px;
+    padding-top: 28px;
+    line-height: 46px;
+  }
+
+  .sm-hero-wrapper .text-container h1 span {
+    font-size: 32px;
+    letter-spacing: +0.94px;
+  }
+
+  .sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+    font-size: 19px;
+    padding: 12px 46px;
+  }
+
+  /* ========= hero section ends ============== */
+
+  /* ========= brands section starts ============ */
+
+  .sm-brands-section-wrapper {
+    padding-top: 40px;
+    background: #1d1d1d;
+    padding-bottom: 42px;
+  }
+
+  .sm-brands-section-wrapper h3 {
+    font-size: 30px;
+    padding-bottom: 22px;
+  }
+
+  .sm-brands-wrapper {
+    gap: 18px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .sm-brands-section-wrapper .brand-box {
+    padding: 16px 18px;
+  }
+
+  .sm-brands-section-wrapper .brand-box h4 {
+    font-size: 21px;
+  }
+
+  /* ========= brands section ends ============ */
+
+  /* ============ sneakers box section starts ========= */
+
+  .trending-sneakers-wrapper .view-all-btn-container a {
+    font-size: 18px;
+    padding: 8px 24px;
+  }
+
+  .trending-sneakers-wrapper h3 {
+    font-size: 30px;
+  }
+
+  .trending-title-wrapper {
+    padding-bottom: 28px;
+  }
+
+  .sm-trending-sneakers-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sell-btn-container
+    a {
+    font-size: 18.6px;
+    padding: 12.5px 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sneakers-title-text {
+    font-size: 23px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .text-container p {
+    font-size: 16px;
+    padding-bottom: 24px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .image-container img {
+    width: 90%;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .image-container {
+    width: 100%;
+    background: #fff;
+    padding: 0px 0px;
+    padding: 20px 14px;
+    display: flex;
+    justify-content: center;
+  }
+
+  /* ============ sneakers box section ends ========= */
+
+  /* =========== join discord section starts ========= */
+
+  .sm-join-discord-banner-wrapper {
+    height: 268px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container {
+    padding-left: 20px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container span {
+    font-size: 22px;
+    padding-bottom: 12px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 {
+    font-size: 30px;
+    padding-bottom: 10px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 .color-text {
+    font-size: 28px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+    font-size: 18px;
+    padding: 10px 18px;
+  }
+
+  .sm-join-discord-banner-section-wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  /* =========== join discord section ends ========= */
+
+  /* =========== footer section starts ============= */
+
+  footer {
+    background-color: #111;
+    padding: 20px 0px 40px 0px;
+  }
+
+  .sm-footer-wrapper .footer-left h4 {
+    font-size: 12px;
+    padding-top: 12px;
+  }
+
+  .sm-footer-wrapper .footer-middle {
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    gap: 12px;
+  }
+
+  .sm-footer-wrapper {
+    gap: 20px;
+  }
+
+  /* =========== footer section ends ============= */
+
+  /* ============ checkout page starts ========== */
+
+
+  .checkout-sales-section-wrapper {
+    gap: 24px;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-image-container img {
+    width: 75%;
+  }
+
+  .checkout-image-container {
+    background: #fff;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .size-and-price-container .size-wrapper .size-box-wrapper .box {
+    text-align: center;
+    border-radius: 2px;
+    background: #f5f5f5;
+    margin-bottom: 9.5px;
+    width: 100%;
+    padding: 5px 2px 5px 2px;
+  }
+
+  .checkout-sales-payment-option-section-container {
+    padding-bottom: 40px;
+  }
+
+  .checkout-sales-product-showcase-item-wrapper {
+    width: 100%;
+  }
+
+  .checkout-dynamic-products-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .checkout-dynamic-product-text-container h4 {
+    font-size: 15.814px;
+  }
+
+  .checkout-dynamic-product-text-container {
+    padding: 20px 10px 30px 10px;
+    background: #eee;
+  }
+
+  .checkout-dynamic-product-text-container h3 {
+    font-size: 20.127px;
+  }
+
+  .sneakers-title-text {
+    font-size: 23.752px;
+  }
+
+  .checkout-text-container p {
+    padding-bottom: 24px;
+    font-size: 16px;
+  }
+
+  /* ===== submit form ========= */
+
+  .checkout-sales-payment-option-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-right {
+    padding: 32px 20px 34px 20px;
+    width: 100%;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-left {
+    padding: 20px 20px;
+    width: 100%;
+    color: white;
+  }
+
+  .labels-container .nice-select {
+    width: 145px !important;
+    height: 40px;
+    font-size: 15px !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .labels-li-text {
+    font-size: 12px;
+    list-style: disc !important;
+    display: inline-block;
+    padding-left: 0px;
+    padding-top: 2px;
+    width: 76%;
+    text-indent: -0px;
+    padding-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+  .checkout-sales-payment-left
+  .title-container
+  .labels-container
+  h4 {
+  font-size: 18px;
+  padding-bottom: 6px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h4 {
+    font-size: 28px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h3 {
+    font-size: 18px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text
+    span {
+    font-size: 26px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text {
+    padding-bottom: 30px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text span {
+    font-size: 17px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+    font-size: 15px;
+  }
+
+  .checkout-sales-payment-title {
+    font-size: 28px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-right label {
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
+
+  .checkout-sales-payment-right .input-1 .nice-select {
+    border-radius: 2px !important;
+    color: #1d1d1d !important;
+    display: flex;
+    border: none;
+    height: 46px;
+    align-items: center;
+    font-family: "Bebas Neue" !important;
+    font-size: 17px !important;
+    font-style: normal !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+  }
+
+  .checkout-sales-payment-right .input-1 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-2 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-3 {
+    padding-bottom: 15px;
+  }
+
+  .checkout-sales-payment-right .input-2 a {
+    padding: 13px 12px 13px 12px;
+  }
+  .checkout-sales-payment-right .input-3 a {
+    height: 46px;
+  }
+
+  .checkout-sales-payment-right .btn-container button {
+    padding: 12px;
+    font-size: 20px;
+    margin-top: 25px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select .nice-select {
+    font-size: 18px !important;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input input {
+    padding: 16px;
+    width: 100%;
+    padding-right: 50px;
+    font-size: 16px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select {
+    height: 49px;
+  }
+
+  .checkout-search-and-filter-wrapper {
+    gap: 24px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-search-input {
+    justify-content: left;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .seller-price-title-container {
+    display: flex;
+    padding-left: 60px;
+  }
+
+  .size-and-price-container .seller-price-wrapper h3 {
+    color: #1d1d1d;
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    width: 100%;
+    display: block;
+    gap: 50px;
+    padding-bottom: 6px;
+  }
+
+  /* ============ checkout page ends ========== */
+
+  /* ============ dashboard css starts ============ */
+
+  .dashboard-left-sidebar {
+    width: 50%;
+    position: absolute;
+    height: calc(100vh - 74px);
+    padding-top: 26px;
+    transform: translateX(-100%);
+    transition: ease-in-out 0.4s;
+}
+  .dashboard-menu-row {
+    padding-bottom: 28px;
+  }
+
+  .sm-dashboard-link {
+    padding-bottom: 24px;
+  }
+
+  .dashboard-right-content {
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-left: 0px solid #1d1d1d;
+    padding: 20px 10px;
+  }
+
+  .status-svg-container {
+    text-wrap: nowrap;
+  }
+
+  .seller-dashboard-wrapper {
+    display: flex;
+    position: relative;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 20px 5px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    gap: 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .dashboard-right-content-title {
+    font-size: 26px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+    font-size: 15px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-active {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-arrived {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-verified {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-completed {
+    font-size: 15px;
+  }
+
+  .seller-table-container table .table-body-row .product-detail-text {
+    text-wrap: nowrap;
+  }
+
+  .seller-table-container table .seller-table-button-container {
+    display: flex;
+    gap: 14px;
+  }
+
+  .dashboard-right-title-and-nav-icon-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .dashboard-right-title-and-nav-icon-container svg {
+    width: 22px;
+    height: 22px;
+    fill: white;
+  }
+
+  .dashboard-nav-icon-container {
+    padding: 5px 5px;
+    border-radius: 5px;
+    background: var(
+      --Gradient,
+      linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seller-table-container table tr th {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .table-heading {
+    height: 60px;
+  }
+
+  .seller-table-container table .table-body-row td {
+    font-size: 14px;
+    padding: 16px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .csv-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .details-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .cancel-button {
+    font-size: 14px;
+  }
+
+  .sm-dashboard-link h4 {
+    font-size: 16px;
+  }
+
+  .dashboard-menu-row a {
+    font-size: 17px;
+  }
+
+  .seller-table-container table .client-table-button-container {
+    gap: 20px;
+  }
+
+  .accordion-button span h4 {
+    font-size: 17px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-1
+    .box-approved {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-shipped {
+    font-size: 15px;
+  }
+
+  /* ============ dashboard css ends ============ */
+
+  /* ============= accoount page css starts =========== */
+
+  .account-image-container {
+    height: 140px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-image-container {
+    width: 100px;
+    height: 100px;
+  }
+
+  .account-profile-image-and-text-container {
+    bottom: -80px;
+    gap: 10px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-text-container h4 {
+    font-size: 22px;
+  }
+
+  .seller-account-info-row-3 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-row-4 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+
+  .seller-account-info-row-2 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-container {
+    padding: 28px 18px;
+    margin-top: 120px;
+  }
+
+  .seller-account-info-row-2 label {
+    font-size: 18px;
+    padding-bottom: 14px;
+  }
+
+  .seller-account-info-row-3 label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-4 label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-2 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .seller-account-info-row-3 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .seller-account-info-row-4 input {
+    padding: 16px 19px;
+    font-size: 15px;
+  }
+
+  .account-info-edit-btn-container svg {
+    width: 22px !important;
+    height: 22px !important;
+  }
+
+  .seller-account-info-row-1 .account-info-edit-btn-container span {
+    font-size: 18px;
+  }
+
+  .seller-account-info-row-4 select {
+    padding: 11px 19px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container {
+    width: 34px;
+    height: 34px;
+    margin-right: -114px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container svg {
+    fill: white;
+  }
+
+  /* ============= accoount page css ends  =========== */
+
+  /* ============= sign up page css starts ============ */
+
+  .sm-signup-wrapper {
+    flex-direction: column;
+    padding: 26px 0px;
+  }
+
+  .signup-left {
+    background: #111;
+    padding: 52px;
+    width: 100%;
+  }
+
+  .signup-left h2 {
+    font-size: 30px;
+    padding-top: 20px;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .signup-left h2 span {
+    font-size: 30px;
+  }
+
+  .signup-right .signup-title {
+    font-size: 30px;
+    padding-bottom: 16px;
+  }
+
+  .signup-right form input {
+    padding: 12px;
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+
+  .signup-left {
+    padding: 28px;
+  }
+
+  .signup-right .signup-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right .signup-btn-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .sm-signup-section-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .signup-right form .signup-btn button {
+    font-size: 20px;
+    padding: 12px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right .google-signup-container button {
+    font-size: 20px;
+    padding: 12px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right form label {
+    font-size: 18px;
+    padding-bottom: 8px;
+  }
+
+  .signup-right li {
+    font-size: 12px;
+    padding-top: 16px;
+    text-indent: -20px;
+    padding-left: 23px;
+  }
+
+  /* ============= sign up page css ends ============ */
+
+  /* ============ login css starts ================= */
+
+  .sm-login-section-wrapper {
+    height: 100%;
+  }
+
+  .sm-login-wrapper {
+    flex-direction: column;
+    padding: 26px 0px;
+  }
+
+  .login-left {
+    padding: 20px;
+    padding-top: 40px;
+  }
+
+  .login-left h2 {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .login-left h2 span {
+    font-size: 30px;
+  }
+
+  .login-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .signup-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .login-right {
+    padding: 36px 28px;
+    width: 100%;
+  }
+
+  .login-right .login-title {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+
+  .login-right form input {
+    padding: 14px;
+    font-size: 15px;
+    margin-bottom: 8px;
+  }
+
+  .login-right form label {
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  .login-right form .login-btn button {
+    font-size: 20px;
+    padding: 14px 0px;
+    margin-top: 30px;
+  }
+
+  .login-right .google-login-container button {
+    font-size: 20px;
+    padding: 13px 0px;
+    margin: 20px 0px 10px 0px;
+  }
+
+  /* ============ login css ends ================= */
+
+  /* =========== notification modal css starts ========= */
+
+  .notification-modal-body {
+    padding: 28px 24px;
+    width: 100%;
+  }
+
+  .view-and-clear-all-container h4 {
+    font-size: 16px;
+  }
+
+  .notification-modal-body .notification-row {
+    padding: 20px 16px;
+    gap: 10px;
+    margin-bottom: 8px;
+  } 
+
+  .notification-modal-body .notification-row h4 {
+    font-size: 16px;
+  }
+
+  /* =========== notification modal css ends ========= */
+
+  /* =========== details modal css starts ============ */
+
+  .seller-details-modal-body {
+    background: #282828;
+    padding: 18px;
+    position: relative;
+    width: 100%;
+  }
+
+  .seller-details-modal-body .seller-total-title {
+    font-size: 26px;
+    padding-bottom: 24px;
+  }
+
+  .total-calculation-container .total-price {
+    font-size: 24px;
+  }
+
+  .seller-details-table-container {
+    overflow-x: scroll;
+  }
+
+  .seller-details-table-container table .product-name,
+  .product-size,
+  .product-pair {
+    font-size: 14px;
+    text-wrap: nowrap;
+  }
+
+  .seller-details-modal-close-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    margin-left: 10px;
+  }
+
+  .seller-details-table-heading th {
+    font-size: 16px;
+    text-wrap: nowrap;
+  }
+
+  .download-label-and-submit-btn-container {
+    gap: 8px;
+    padding-top: 20px;
+  }
+
+  .download-label-and-submit-btn-container .submit-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  .submit-btn-instruction-li-text {
+    font-size: 10px;
+    /* padding-top: 10px; */
+    text-indent: -13px;
+    width: 72%;
+    padding-left: 14px;
+  }
+
+  /* =========== details modal css ends ============ */
+
+  /* ============== checkout submit form modal ========== */
+
+  .download-label-and-submit-btn-container .download-label-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  /* ============== checkout submit form modal ========== */
+
+
+}
+
+/* large mobile devices */
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+
+  /* ========= navbar section starts ============= */
+  .home-text-span {
+    display: none;
+  }
+
+  .notif-text-span {
+    display: none;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container {
+    gap: 30px;
+  }
+
+  .sm-navbar-wrapper .logo-container {
+    width: 66px;
+    height: 36px;
+  }
+
+  .sm-navbar-wrapper .login-signup-btn-container a {
+    font-size: 16px;
+    padding: 6px 10px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container li a svg {
+    width: 19;
+    height: 16;
+  }
+
+  /* ========= navbar section ends ============= */
+
+  /* ========= hero section starts ============== */
+
+  .sm-hero-section-wrapper {
+    height: 620px;
+  }
+
+  .client-size-and-price-row .size-input {
+    border-radius: 2px;
+    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    justify-content: center;
+    padding: 1px;
+    padding-left: 0px;
+}
+
+.view-and-clear-all-container h4:first-child {
+  font-size: 16px;
+  }
+
+  .hero-image-container {
+    width: 340px;
+    height: 340px;
+  }
+
+  .sm-hero-wrapper {
+    flex-direction: column-reverse;
+    padding-top: 40px;
+  }
+
+  .sm-hero-wrapper .text-container h1 {
+    font-size: 30px;
+    padding-bottom: 28px;
+    padding-top: 28px;
+    line-height: 46px;
+  }
+
+  .sm-hero-wrapper .text-container h1 span {
+    font-size: 30px;
+    letter-spacing: +0.94px;
+  }
+
+  .sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+    font-size: 18px;
+    padding: 10px 46px;
+  }
+
+  /* ========= hero section ends ============== */
+
+  /* ========= brands section starts ============ */
+
+  .sm-brands-section-wrapper {
+    padding-top: 40px;
+    background: #1d1d1d;
+    padding-bottom: 42px;
+  }
+
+  .sm-brands-section-wrapper h3 {
+    font-size: 28px;
+    padding-bottom: 22px;
+  }
+
+  .sm-brands-wrapper {
+    gap: 18px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .sm-brands-section-wrapper .brand-box {
+    padding: 16px 18px;
+  }
+
+  .sm-brands-section-wrapper .brand-box h4 {
+    font-size: 20px;
+  }
+
+  /* ========= brands section ends ============ */
+
+  /* ============ sneakers box section starts ========= */
+
+  .trending-sneakers-wrapper .view-all-btn-container a {
+    font-size: 16px;
+    padding: 6px 16px;
+  }
+
+  .trending-sneakers-wrapper h3 {
+    font-size: 28px;
+  }
+
+  .trending-title-wrapper {
+    padding-bottom: 28px;
+  }
+
+  .sm-trending-sneakers-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sell-btn-container
+    a {
+    font-size: 18.6px;
+    padding: 12.5px 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sneakers-title-text {
+    font-size: 22px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .text-container p {
+    font-size: 15px;
+    padding-bottom: 24px;
+  }
+
+  /* ============ sneakers box section ends ========= */
+
+  /* =========== join discord section starts ========= */
+
+  .sm-join-discord-banner-wrapper {
+    height: 268px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container {
+    padding-left: 20px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container span {
+    font-size: 20px;
+    padding-bottom: 6px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 {
+    font-size: 28px;
+    padding-bottom: 10px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 .color-text {
+    font-size: 28px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+    font-size: 17px;
+    padding: 8px 16px;
+  }
+
+  .sm-join-discord-banner-section-wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  /* =========== join discord section ends ========= */
+
+  /* =========== footer section starts ============= */
+
+  footer {
+    background-color: #111;
+    padding: 20px 0px 40px 0px;
+  }
+
+  .sm-footer-wrapper .footer-left h4 {
+    font-size: 11px;
+    padding-top: 10px;
+  }
+
+  .sm-footer-wrapper .footer-middle {
+    display: flex;
+    flex-direction: column;
+    width: 296px;
+    gap: 10px;
+  }
+
+  .sm-footer-wrapper {
+    gap: 20px;
+  }
+
+  /* =========== footer section ends ============= */
+
+  /* ============ checkout page starts ========== */
+
+
+  .checkout-sales-section-wrapper {
+    gap: 24px;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-image-container img {
+    width: 80%;
+  }
+
+  .checkout-image-container {
+    background: #fff;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .size-and-price-container .size-wrapper .size-box-wrapper .box {
+    text-align: center;
+    border-radius: 2px;
+    background: #f5f5f5;
+    margin-bottom: 9.5px;
+    width: 100%;
+    padding: 5px 2px 5px 2px;
+  }
+
+  .checkout-sales-payment-option-section-container {
+    padding-bottom: 40px;
+  }
+
+  .checkout-sales-product-showcase-item-wrapper {
+    width: 100%;
+  }
+
+  .checkout-dynamic-products-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .checkout-dynamic-product-text-container h4 {
+    font-size: 15.814px;
+  }
+
+  .checkout-dynamic-product-text-container {
+    padding: 20px 10px 30px 10px;
+    background: #eee;
+  }
+
+  .checkout-dynamic-product-text-container h3 {
+    font-size: 20.127px;
+  }
+
+  .sneakers-title-text {
+    font-size: 22.752px;
+  }
+
+  .checkout-text-container p {
+    padding-bottom: 24px;
+    font-size: 15px;
+  }
+
+  /* ===== submit form ========= */
+
+  .checkout-sales-payment-option-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-right {
+    padding: 20px 20px 20px 20px;
+    width: 100%;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-left {
+    padding: 20px 20px;
+    width: 100%;
+    color: white;
+  }
+
+  .labels-container .nice-select {
+    width: 145px !important;
+    height: 35px;
+    font-size: 15px !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .labels-li-text {
+    font-size: 12px;
+    list-style: disc !important;
+    display: inline-block;
+    padding-left: 0px;
+    padding-top: 2px;
+    width: 76%;
+    text-indent: -0px;
+    padding-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    h4 {
+    font-size: 16px;
+    padding-bottom: 2px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h4 {
+    font-size: 26px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h3 {
+    font-size: 16px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text
+    span {
+    font-size: 24px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text {
+    padding-bottom: 30px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text span {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+    font-size: 14px;
+  }
+
+  .checkout-sales-payment-title {
+    font-size: 26px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-right label {
+    font-size: 16px;
+    padding-bottom: 5px;
+  }
+
+  .checkout-sales-payment-right .input-1 .nice-select {
+    border-radius: 2px !important;
+    color: #1d1d1d !important;
+    display: flex;
+    border: none;
+    height: 40px;
+    align-items: center;
+    font-family: "Bebas Neue" !important;
+    font-size: 16px !important;
+    font-style: normal !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+  }
+
+  .checkout-sales-payment-right .input-1 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-2 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-3 {
+    padding-bottom: 15px;
+  }
+
+  .checkout-sales-payment-right .input-2 a {
+    padding: 10px 12px 10px 12px;
+  }
+
+  .checkout-sales-payment-right .input-3 a {
+    height: 40px;
+  }
+
+  .checkout-sales-payment-right .btn-container button {
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select .nice-select {
+    font-size: 16px !important;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input input {
+    padding: 11px;
+    width: 100%;
+    padding-right: 50px;
+    font-size: 16px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select {
+    height: 42px;
+  }
+
+  .checkout-search-and-filter-wrapper {
+    gap: 20px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-search-input {
+    justify-content: left;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .size-and-price-container .seller-price-wrapper h3 {
+    display: block;
+  }
+
+  /* ============ checkout page ends ========== */
+
+  /* ============ dashboard css starts ============ */
+
+  .dashboard-left-sidebar {
+    width: 65%;
+    position: absolute;
+    height: calc(100vh - 74px);
+    padding-top: 26px;
+    transform: translateX(-100%);
+    transition: ease-in-out 0.4s;
+  }
+
+  .dashboard-menu-row {
+    padding-bottom: 28px;
+  }
+
+  .sm-dashboard-link {
+    padding-bottom: 24px;
+  }
+
+  .dashboard-right-content {
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-left: 0px solid #1d1d1d;
+    padding: 20px 10px;
+  }
+
+  .status-svg-container {
+    text-wrap: nowrap;
+  }
+
+  .seller-dashboard-wrapper {
+    display: flex;
+    position: relative;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 20px 5px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    gap: 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .dashboard-right-content-title {
+    font-size: 24px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+    font-size: 15px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-active {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-arrived {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-verified {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-completed {
+    font-size: 15px;
+  }
+
+  .seller-table-container table .table-body-row .product-detail-text {
+    text-wrap: nowrap;
+  }
+
+  .seller-table-container table .seller-table-button-container {
+    display: flex;
+    gap: 14px;
+  }
+
+  .dashboard-right-title-and-nav-icon-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .dashboard-right-title-and-nav-icon-container svg {
+    width: 22px;
+    height: 22px;
+    fill: white;
+  }
+
+  .dashboard-nav-icon-container {
+    padding: 5px 5px;
+    border-radius: 5px;
+    background: var(
+      --Gradient,
+      linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seller-table-container table tr th {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .table-heading {
+    height: 60px;
+  }
+
+  .seller-table-container table .table-body-row td {
+    font-size: 14px;
+    padding: 16px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .csv-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .details-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .cancel-button {
+    font-size: 14px;
+  }
+
+  .sm-dashboard-link h4 {
+    font-size: 15px;
+  }
+
+  .dashboard-menu-row a {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .client-table-button-container {
+    gap: 20px;
+  }
+
+  .accordion-button span h4 {
+    font-size: 16px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-1
+    .box-approved {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-shipped {
+    font-size: 15px;
+  }
+
+  /* ============ dashboard css ends ============ */
+
+  /* ============= accoount page css starts =========== */
+
+  .account-image-container {
+    height: 120px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-image-container {
+    width: 90px;
+    height: 90px;
+  }
+
+  .account-profile-image-and-text-container {
+    bottom: -80px;
+    gap: 10px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-text-container h4 {
+    font-size: 20px;
+  }
+
+  .seller-account-info-row-3 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-row-4 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+
+  .seller-account-info-row-2 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-container {
+    padding: 28px 18px;
+    margin-top: 120px;
+  }
+
+  .seller-account-info-row-2 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-3 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-4 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-2 input {
+    padding: 12px 19px;
+  }
+
+  .seller-account-info-row-3 input {
+    padding: 12px 19px;
+  }
+
+  .seller-account-info-row-4 input {
+    padding: 12px 19px;
+  }
+
+  .account-info-edit-btn-container svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .seller-account-info-row-1 .account-info-edit-btn-container span {
+    font-size: 16px;
+  }
+
+  .seller-account-info-row-4 select {
+    padding: 8px 19px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container {
+    width: 32px;
+    height: 32px;
+    margin-right: -90px;
+  }
+  .sm-navbar-wrapper .dashboard-nav-icon-container svg {
+    fill: white;
+  }
+
+  /* ============= accoount page css ends  =========== */
+
+  /* ============= sign up page css starts ============ */
+
+  .sm-signup-wrapper {
+    flex-direction: column;
+    padding: 26px 0px;
+  }
+
+  .signup-left {
+    background: #111;
+    padding: 52px;
+    width: 100%;
+  }
+
+  .signup-left h2 {
+    font-size: 28px;
+    padding-top: 20px;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .signup-left h2 span {
+    font-size: 30px;
+  }
+
+  .signup-right .signup-title {
+    font-size: 30px;
+    padding-bottom: 16px;
+  }
+
+  .signup-right form input {
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+
+  .signup-left {
+    padding: 28px;
+  }
+
+  .signup-right .signup-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right .signup-btn-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .sm-signup-section-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .signup-right form .signup-btn button {
+    font-size: 18px;
+    padding: 8px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right .google-signup-container button {
+    font-size: 18px;
+    padding: 8px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right form label {
+    font-size: 16px;
+    padding-bottom: 4px;
+  }
+
+  .signup-right li {
+    font-size: 12px;
+    padding-top: 16px;
+    text-indent: -20px;
+    padding-left: 23px;
+  }
+
+  /* ============= sign up page css ends ============ */
+
+  /* ============ login css starts ================= */
+
+  .sm-login-section-wrapper {
+    height: 100%;
+  }
+
+  .sm-login-wrapper {
+    flex-direction: column;
+    padding: 26px 0px;
+  }
+
+  .login-left {
+    padding: 20px;
+    padding-top: 40px;
+  }
+
+  .login-left h2 {
+    font-size: 28px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .login-left h2 span {
+    font-size: 28px;
+  }
+
+  .login-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .signup-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .login-right {
+    padding: 30px 20px;
+    width: 100%;
+  }
+
+  .login-right .login-title {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+
+  .login-right form input {
+    padding: 12px;
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  .login-right form label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .login-right form .login-btn button {
+    font-size: 18px;
+    padding: 10px 0px;
+    margin-top: 30px;
+  }
+
+  .login-right .google-login-container button {
+    font-size: 18px;
+    padding: 9px 0px;
+    margin: 20px 0px 10px 0px;
+  }
+
+  /* ============ login css ends ================= */
+
+  /* =========== notification modal css starts ========= */
+
+  .notification-modal-body {
+    padding: 24px 20px;
+    width: 100%;
+  }
+
+  .view-and-clear-all-container h4 {
+    font-size: 16px;
+  }
+
+  .notification-modal-body .notification-row {
+    padding: 18px 13px;
+    gap: 10px;
+    margin-bottom: 6px;
+  }
+
+  .notification-modal-body .notification-row h4 {
+    font-size: 15px;
+  }
+
+  /* =========== notification modal css ends ========= */
+
+  /* =========== details modal css starts ============ */
+
+  .seller-details-modal-body {
+    background: #282828;
+    padding: 18px;
+    position: relative;
+    width: 100%;
+  }
+
+  .seller-details-modal-body .seller-total-title {
+    font-size: 26px;
+    padding-bottom: 24px;
+  }
+
+  .total-calculation-container .total-price {
+    font-size: 24px;
+  }
+
+  .seller-details-table-container {
+    overflow-x: scroll;
+  }
+
+  .seller-details-table-container table .product-name,
+  .product-size,
+  .product-pair {
+    font-size: 14px;
+    text-wrap: nowrap;
+  }
+
+  .seller-details-modal-close-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    margin-left: 10px;
+  }
+
+  .seller-details-table-heading th {
+    font-size: 16px;
+    text-wrap: nowrap;
+  }
+
+  .download-label-and-submit-btn-container {
+    gap: 8px;
+    padding-top: 20px;
+  }
+
+  .download-label-and-submit-btn-container .submit-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  .submit-btn-instruction-li-text {
+    font-size: 10px;
+    /* padding-top: 10px; */
+    text-indent: -13px;
+    width: 72%;
+    padding-left: 14px;
+  }
+
+  /* =========== details modal css ends ============ */
+
+  /* ============== checkout submit form modal ========== */
+
+  .download-label-and-submit-btn-container .download-label-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  /* ============== checkout submit form modal ========== */
+
+}
+
+/* mobile devices */
+@media only screen and (min-width: 375px) and (max-width: 479px) {
+  /* ========= navbar section starts ============= */
+  .home-text-span {
+    display: none;
+  }
+
+  .notif-text-span {
+    display: none;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container {
+    gap: 30px;
+  }
+
+  .sm-navbar-wrapper .logo-container {
+    width: 66px;
+    height: 36px;
+  }
+
+  .sm-navbar-wrapper .login-signup-btn-container a {
+    font-size: 16px;
+    padding: 6px 10px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container li a svg {
+    width: 19;
+    height: 16;
+  }
+
+  /* ========= navbar section ends ============= */
+
+  /* ========= hero section starts ============== */
+
+  .sm-hero-section-wrapper {
+    height: 570px;
+  }
+
+  .client-size-and-price-row .size-input {
+    width: 200px;
+    padding-left: 0px;
+    justify-content: center;
+    display: flex;
+  }
+
+  .hero-image-container {
+    width: 300px;
+    height: 300px;
+  }
+
+  .sm-hero-wrapper {
+    flex-direction: column-reverse;
+    padding-top: 40px;
+  }
+
+  .sm-hero-wrapper .text-container h1 {
+    font-size: 30px;
+    padding-bottom: 28px;
+    padding-top: 28px;
+    line-height: 46px;
+  }
+
+  .sm-hero-wrapper .text-container h1 span {
+    font-size: 30px;
+    letter-spacing: +0.94px;
+  }
+
+  .sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+    font-size: 18px;
+    padding: 10px 46px;
+  }
+
+  /* ========= hero section ends ============== */
+
+  /* ========= brands section starts ============ */
+
+  .sm-brands-section-wrapper {
+    padding-top: 40px;
+    background: #1d1d1d;
+    padding-bottom: 42px;
+  }
+
+  .sm-brands-section-wrapper h3 {
+    font-size: 28px;
+    padding-bottom: 22px;
+  }
+
+  .sm-brands-wrapper {
+    gap: 18px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .sm-brands-section-wrapper .brand-box {
+    padding: 16px 18px;
+  }
+
+  .sm-brands-section-wrapper .brand-box h4 {
+    font-size: 20px;
+  }
+
+  /* ========= brands section ends ============ */
+
+  /* ============ sneakers box section starts ========= */
+
+  .trending-sneakers-wrapper .view-all-btn-container a {
+    font-size: 16px;
+    padding: 6px 16px;
+  }
+
+  .trending-sneakers-wrapper h3 {
+    font-size: 28px;
+  }
+
+  .trending-title-wrapper {
+    padding-bottom: 28px;
+  }
+
+  .sm-trending-sneakers-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sell-btn-container
+    a {
+    font-size: 18.6px;
+    padding: 12.5px 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sneakers-title-text {
+    font-size: 22px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .text-container p {
+    font-size: 15px;
+    padding-bottom: 24px;
+  }
+
+  /* ============ sneakers box section ends ========= */
+
+  /* =========== join discord section starts ========= */
+
+  .sm-join-discord-banner-wrapper {
+    height: 268px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container {
+    padding-left: 20px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container span {
+    font-size: 20px;
+    padding-bottom: 6px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 {
+    font-size: 28px;
+    padding-bottom: 10px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 .color-text {
+    font-size: 28px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+    font-size: 17px;
+    padding: 8px 16px;
+  }
+
+  .sm-join-discord-banner-section-wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  /* =========== join discord section ends ========= */
+
+  /* =========== footer section starts ============= */
+
+  footer {
+    background-color: #111;
+    padding: 20px 0px 40px 0px;
+  }
+
+  .sm-footer-wrapper .footer-left h4 {
+    font-size: 11px;
+    padding-top: 10px;
+  }
+
+  .sm-footer-wrapper .footer-middle {
+    display: flex;
+    flex-direction: column;
+    width: 296px;
+    gap: 10px;
+  }
+
+  .sm-footer-wrapper {
+    gap: 20px;
+  }
+
+  /* =========== footer section ends ============= */
+
+  /* ============ checkout page starts ========== */
+
+  .checkout-sales-section-wrapper {
+    gap: 24px;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-option-section-container {
+    padding-bottom: 40px;
+  }
+
+  .checkout-sales-product-showcase-item-wrapper {
+    width: 100%;
+  }
+
+  .checkout-dynamic-products-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .checkout-dynamic-product-text-container h4 {
+    font-size: 15.814px;
+  }
+
+  .checkout-dynamic-product-text-container {
+    padding: 20px 10px 30px 10px;
+    background: #eee;
+  }
+
+  .checkout-dynamic-product-text-container h3 {
+    font-size: 20.127px;
+  }
+
+  .sneakers-title-text {
+    font-size: 22.752px;
+  }
+
+  .checkout-text-container p {
+    padding-bottom: 24px;
+    font-size: 15px;
+  }
+
+  /* ===== submit form ========= */
+
+  .checkout-sales-payment-option-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-right {
+    padding: 20px 20px 20px 20px;
+    width: 100%;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-left {
+    padding: 20px 20px;
+    width: 100%;
+    color: white;
+  }
+
+  .labels-container .nice-select {
+    width: 145px !important;
+    height: 35px;
+    font-size: 15px !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .labels-li-text {
+    font-size: 12px;
+    list-style: disc !important;
+    display: inline-block;
+    padding-left: 0px;
+    padding-top: 2px;
+    width: 76%;
+    text-indent: -0px;
+    padding-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    h4 {
+    font-size: 16px;
+    padding-bottom: 2px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h4 {
+    font-size: 26px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h3 {
+    font-size: 16px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text
+    span {
+    font-size: 24px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text {
+    padding-bottom: 30px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text span {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+    font-size: 14px;
+  }
+
+  .checkout-sales-payment-title {
+    font-size: 26px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-right label {
+    font-size: 16px;
+    padding-bottom: 5px;
+  }
+
+  .checkout-sales-payment-right .input-1 .nice-select {
+    border-radius: 2px !important;
+    color: #1d1d1d !important;
+    display: flex;
+    border: none;
+    height: 40px;
+    align-items: center;
+    font-family: "Bebas Neue" !important;
+    font-size: 16px !important;
+    font-style: normal !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+  }
+
+  .checkout-sales-payment-right .input-1 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-2 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-3 {
+    padding-bottom: 15px;
+  }
+
+  .checkout-sales-payment-right .input-2 a {
+    padding: 10px 12px 10px 12px;
+  }
+
+  .checkout-sales-payment-right .input-3 a {
+    height: 40px;
+  }
+
+  .checkout-sales-payment-right .btn-container button {
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select .nice-select {
+    font-size: 16px !important;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input input {
+    padding: 11px;
+    width: 100%;
+    padding-right: 50px;
+    font-size: 16px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select {
+    height: 42px;
+  }
+
+  .checkout-search-and-filter-wrapper {
+    gap: 20px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-search-input {
+    justify-content: left;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  /* ============ checkout page ends ========== */
+
+  /* ============ dashboard css starts ============ */
+
+  .dashboard-left-sidebar {
+    width: 75%;
+    position: absolute;
+    height: calc(100vh - 74px);
+    padding-top: 26px;
+    transform: translateX(-100%);
+    transition: ease-in-out 0.4s;
+  }
+
+  .dashboard-menu-row {
+    padding-bottom: 28px;
+  }
+
+  .sm-dashboard-link {
+    padding-bottom: 24px;
+  }
+
+  .dashboard-right-content {
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-left: 0px solid #1d1d1d;
+    padding: 20px 10px;
+  }
+
+  .status-svg-container {
+    text-wrap: nowrap;
+  }
+
+  .seller-dashboard-wrapper {
+    display: flex;
+    position: relative;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 20px 5px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    gap: 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    height: 64px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .dashboard-right-content-title {
+    font-size: 24px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+    font-size: 15px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-active {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-arrived {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-verified {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-completed {
+    font-size: 15px;
+  }
+
+  .seller-table-container table .table-body-row .product-detail-text {
+    text-wrap: nowrap;
+  }
+
+  .seller-table-container table .seller-table-button-container {
+    display: flex;
+    gap: 14px;
+  }
+
+  .dashboard-right-title-and-nav-icon-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .dashboard-right-title-and-nav-icon-container svg {
+    width: 22px;
+    height: 22px;
+    fill: white;
+  }
+
+  .dashboard-nav-icon-container {
+    padding: 5px 5px;
+    border-radius: 5px;
+    background: var(
+      --Gradient,
+      linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seller-table-container table tr th {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .table-heading {
+    height: 60px;
+  }
+
+  .seller-table-container table .table-body-row td {
+    font-size: 14px;
+    padding: 16px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .csv-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .details-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .cancel-button {
+    font-size: 14px;
+  }
+
+  .sm-dashboard-link h4 {
+    font-size: 15px;
+  }
+
+  .dashboard-menu-row a {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .client-table-button-container {
+    gap: 20px;
+  }
+
+  .accordion-button span h4 {
+    font-size: 16px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-1
+    .box-approved {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-shipped {
+    font-size: 15px;
+  }
+
+  /* ============ dashboard css ends ============ */
+
+  /* ============= accoount page css starts =========== */
+
+  .account-image-container {
+    height: 120px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-image-container {
+    width: 90px;
+    height: 90px;
+  }
+
+  .account-profile-image-and-text-container {
+    bottom: -80px;
+    gap: 10px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-text-container h4 {
+    font-size: 20px;
+  }
+
+  .seller-account-info-row-3 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-row-4 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+
+  .seller-account-info-row-2 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-container {
+    padding: 28px 18px;
+    margin-top: 120px;
+  }
+
+  .seller-account-info-row-2 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-3 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-4 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-2 input {
+    padding: 12px 19px;
+  }
+
+  .seller-account-info-row-3 input {
+    padding: 12px 19px;
+  }
+
+  .seller-account-info-row-4 input {
+    padding: 12px 19px;
+  }
+
+  .account-info-edit-btn-container svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .seller-account-info-row-1 .account-info-edit-btn-container span {
+    font-size: 16px;
+  }
+
+  .seller-account-info-row-4 select {
+    padding: 8px 19px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container {
+    width: 30px;
+    height: 30px;
+    margin-right: -40px;
+  }
+  .sm-navbar-wrapper .dashboard-nav-icon-container svg {
+    fill: white;
+  }
+
+  /* ============= accoount page css ends  =========== */
+
+  /* ============= sign up page css starts ============ */
+
+  .sm-signup-wrapper {
+    flex-direction: column;
+    padding: 26px 0px;
+  }
+
+  .signup-left {
+    background: #111;
+    padding: 52px;
+    width: 100%;
+  }
+
+  .signup-left h2 {
+    font-size: 28px;
+    padding-top: 20px;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .signup-left h2 span {
+    font-size: 30px;
+  }
+
+  .signup-right .signup-title {
+    font-size: 30px;
+    padding-bottom: 16px;
+  }
+
+  .signup-right form input {
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+
+  .signup-left {
+    padding: 28px;
+  }
+
+  .signup-right .signup-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right .signup-btn-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .sm-signup-section-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .signup-right form .signup-btn button {
+    font-size: 18px;
+    padding: 8px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right .google-signup-container button {
+    font-size: 18px;
+    padding: 8px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right form label {
+    font-size: 16px;
+    padding-bottom: 4px;
+  }
+
+  .signup-right li {
+    font-size: 12px;
+    padding-top: 16px;
+    text-indent: -20px;
+    padding-left: 23px;
+  }
+
+  /* ============= sign up page css ends ============ */
+
+  /* ============ login css starts ================= */
+
+  .sm-login-section-wrapper {
+    height: 100%;
+  }
+
+  .sm-login-wrapper {
+    flex-direction: column;
+    padding: 26px 0px;
+  }
+
+  .login-left {
+    padding: 20px;
+    padding-top: 40px;
+  }
+
+  .login-left h2 {
+    font-size: 28px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .login-left h2 span {
+    font-size: 28px;
+  }
+
+  .login-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .signup-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .login-right {
+    padding: 30px 20px;
+    width: 100%;
+  }
+
+  .login-right .login-title {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+
+  .login-right form input {
+    padding: 12px;
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  .login-right form label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .login-right form .login-btn button {
+    font-size: 18px;
+    padding: 10px 0px;
+    margin-top: 30px;
+  }
+
+  .login-right .google-login-container button {
+    font-size: 18px;
+    padding: 9px 0px;
+    margin: 20px 0px 10px 0px;
+  }
+
+  /* ============ login css ends ================= */
+
+  /* =========== notification modal css starts ========= */
+
+  .notification-modal-body {
+    padding: 24px 20px;
+    width: 100%;
+  }
+
+  .view-and-clear-all-container h4 {
+    font-size: 16px;
+  }
+
+  .notification-modal-body .notification-row {
+    padding: 18px 13px;
+    gap: 10px;
+    margin-bottom: 6px;
+  }
+
+  .notification-modal-body .notification-row h4 {
+    font-size: 15px;
+  }
+
+  /* =========== notification modal css ends ========= */
+
+  /* =========== details modal css starts ============ */
+
+  .seller-details-modal-body {
+    background: #282828;
+    padding: 18px;
+    position: relative;
+    width: 100%;
+  }
+
+  .seller-details-modal-body .seller-total-title {
+    font-size: 26px;
+    padding-bottom: 24px;
+  }
+
+  .total-calculation-container .total-price {
+    font-size: 24px;
+  }
+
+  .seller-details-table-container {
+    overflow-x: scroll;
+  }
+
+  .seller-details-table-container table .product-name,
+  .product-size,
+  .product-pair {
+    font-size: 14px;
+    text-wrap: nowrap;
+  }
+
+  .seller-details-modal-close-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    margin-left: 10px;
+  }
+
+  .seller-details-table-heading th {
+    font-size: 16px;
+    text-wrap: nowrap;
+  }
+
+  .download-label-and-submit-btn-container {
+    gap: 8px;
+    padding-top: 20px;
+  }
+
+  .download-label-and-submit-btn-container .submit-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  .submit-btn-instruction-li-text {
+    font-size: 10px;
+    /* padding-top: 10px; */
+    text-indent: -13px;
+    width: 72%;
+    padding-left: 14px;
+  }
+
+  /* =========== details modal css ends ============ */
+
+  /* ============== checkout submit form modal ========== */
+
+  .download-label-and-submit-btn-container .download-label-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  /* ============== checkout submit form modal ========== */
+}
+
+/* extra small devices */
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+  /* ========= navbar section starts ============= */
+  .home-text-span {
+    display: none;
+  }
+
+  .notif-text-span {
+    display: none;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container {
+    gap: 30px;
+  }
+
+  .sm-navbar-wrapper .logo-container {
+    width: 66px;
+    height: 36px;
+  }
+
+  .sm-navbar-wrapper .login-signup-btn-container a {
+    font-size: 16px;
+    padding: 6px 10px;
+  }
+
+  .sm-navbar-wrapper .nav-menu-container li a svg {
+    width: 19;
+    height: 16;
+  }
+
+  /* ========= navbar section ends ============= */
+
+  /* ========= hero section starts ============== */
+
+  .sm-hero-section-wrapper {
+    height: 612px;
+  }
+
+  .hero-image-container {
+    width: 270px;
+    height: 270px;
+  }
+
+  .sm-hero-wrapper {
+    flex-direction: column-reverse;
+    padding-top: 40px;
+  }
+
+  .sm-hero-wrapper .text-container h1 {
+    font-size: 30px;
+    padding-bottom: 28px;
+    padding-top: 28px;
+    line-height: 46px;
+  }
+
+  .sm-hero-wrapper .text-container h1 span {
+    font-size: 30px;
+    letter-spacing: +0.94px;
+  }
+
+  .sm-hero-wrapper .text-container .hero-sell-today-btn-container a {
+    font-size: 18px;
+    padding: 10px 46px;
+  }
+
+  /* ========= hero section ends ============== */
+
+  /* ========= brands section starts ============ */
+
+  .sm-brands-section-wrapper {
+    padding-top: 40px;
+    background: #1d1d1d;
+    padding-bottom: 42px;
+  }
+
+  .sm-brands-section-wrapper h3 {
+    font-size: 28px;
+    padding-bottom: 22px;
+  }
+
+  .sm-brands-wrapper {
+    gap: 18px;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .sm-brands-section-wrapper .brand-box {
+    padding: 10px 18px;
+  }
+
+  .sm-brands-section-wrapper .brand-box h4 {
+    font-size: 20px;
+  }
+
+  /* ========= brands section ends ============ */
+
+  /* ============ sneakers box section starts ========= */
+
+  .trending-sneakers-wrapper .view-all-btn-container a {
+    font-size: 16px;
+    padding: 6px 16px;
+  }
+
+  .trending-sneakers-wrapper h3 {
+    font-size: 28px;
+  }
+
+  .trending-title-wrapper {
+    padding-bottom: 28px;
+  }
+
+  .sm-trending-sneakers-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sell-btn-container
+    a {
+    font-size: 18.6px;
+    padding: 12.5px 16px;
+  }
+
+  .sm-trending-sneakers-wrapper
+    .sneakers-box
+    .text-container
+    .sneakers-title-text {
+    font-size: 22px;
+  }
+
+  .sm-trending-sneakers-wrapper .sneakers-box .text-container p {
+    font-size: 15px;
+    padding-bottom: 24px;
+  }
+
+  /* ============ sneakers box section ends ========= */
+
+  /* =========== join discord section starts ========= */
+
+  .sm-join-discord-banner-wrapper {
+    height: 268px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container {
+    padding-left: 20px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container span {
+    font-size: 20px;
+    padding-bottom: 6px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 {
+    font-size: 28px;
+    padding-bottom: 10px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container h3 .color-text {
+    font-size: 28px;
+  }
+
+  .sm-join-discord-banner-wrapper .text-container .join-discord-btn a {
+    font-size: 17px;
+    padding: 8px 16px;
+  }
+
+  .sm-join-discord-banner-section-wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
+  /* =========== join discord section ends ========= */
+
+  /* =========== footer section starts ============= */
+
+  footer {
+    background-color: #111;
+    padding: 20px 0px 40px 0px;
+  }
+
+  .sm-footer-wrapper .footer-left h4 {
+    font-size: 10px;
+    padding-top: 10px;
+  }
+
+  .sm-footer-wrapper .footer-middle {
+    display: flex;
+    flex-direction: column;
+    width: 296px;
+    gap: 10px;
+  }
+
+  .sm-footer-wrapper {
+    gap: 20px;
+  }
+
+  /* =========== footer section ends ============= */
+
+  /* ============ checkout page starts ========== */
+
+  .checkout-sales-section-wrapper {
+    gap: 24px;
+    flex-direction: column;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-option-section-container {
+    padding-bottom: 40px;
+  }
+
+  .checkout-sales-product-showcase-item-wrapper {
+    width: 100%;
+  }
+
+  .checkout-dynamic-products-wrapper {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  .checkout-dynamic-product-text-container h4 {
+    font-size: 15.814px;
+  }
+
+  .checkout-dynamic-product-text-container {
+    padding: 20px 10px 30px 10px;
+    background: #eee;
+  }
+
+  .checkout-dynamic-product-text-container h3 {
+    font-size: 20.127px;
+  }
+
+  .sneakers-title-text {
+    font-size: 22.752px;
+  }
+
+  .checkout-text-container p {
+    padding-bottom: 24px;
+    font-size: 15px;
+  }
+
+  /* ===== submit form ========= */
+
+  .checkout-sales-payment-option-wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-right {
+    padding: 20px 20px 20px 20px;
+    width: 100%;
+  }
+
+  .checkout-sales-payment-option-wrapper .checkout-sales-payment-left {
+    padding: 20px 20px;
+    width: 100%;
+    color: white;
+  }
+
+  .labels-container .nice-select {
+    width: 145px !important;
+    height: 35px;
+    font-size: 15px !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+    margin-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .labels-li-text {
+    font-size: 12px;
+    list-style: disc !important;
+    display: inline-block;
+    padding-left: 0px;
+    padding-top: 2px;
+    width: 76%;
+    text-indent: -0px;
+    padding-bottom: 12px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    h4 {
+    font-size: 16px;
+    padding-bottom: 2px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h4 {
+    font-size: 26px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .total-container
+    h3 {
+    font-size: 16px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text
+    span {
+    font-size: 24px;
+  }
+
+  .checkout-sales-payment-option-wrapper
+    .checkout-sales-payment-left
+    .title-container
+    .labels-container
+    .total-items-text {
+    padding-bottom: 30px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text h4 {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text h4 {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .label-ordered-text span {
+    font-size: 15px;
+  }
+
+  .product-uploaded-and-label-ordered-text .uploaded-and-label-text span {
+    font-size: 14px;
+  }
+
+  .checkout-sales-payment-title {
+    font-size: 26px;
+    padding-bottom: 20px;
+  }
+
+  .checkout-sales-payment-right label {
+    font-size: 16px;
+    padding-bottom: 5px;
+  }
+
+  .checkout-sales-payment-right .input-1 .nice-select {
+    border-radius: 2px !important;
+    color: #1d1d1d !important;
+    display: flex;
+    border: none;
+    height: 40px;
+    align-items: center;
+    font-family: "Bebas Neue" !important;
+    font-size: 16px !important;
+    font-style: normal !important;
+    padding-right: 40px;
+    font-weight: 400 !important;
+    line-height: normal;
+  }
+
+  .checkout-sales-payment-right .input-1 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-2 {
+    padding-bottom: 15px;
+  }
+  .checkout-sales-payment-right .input-3 {
+    padding-bottom: 15px;
+  }
+
+  .checkout-sales-payment-right .input-2 a {
+    padding: 10px 12px 10px 12px;
+  }
+
+  .checkout-sales-payment-right .input-3 a {
+    height: 40px;
+  }
+
+  .checkout-sales-payment-right .btn-container button {
+    padding: 8px;
+    font-size: 18px;
+    margin-top: 25px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select .nice-select {
+    font-size: 16px !important;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input input {
+    padding: 11px;
+    width: 100%;
+    padding-right: 50px;
+    font-size: 16px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-select {
+    height: 42px;
+  }
+
+  .checkout-search-and-filter-wrapper {
+    gap: 20px;
+  }
+
+  .checkout-search-and-filter-wrapper .checkout-search-input {
+    justify-content: left;
+  }
+  .checkout-search-and-filter-wrapper .checkout-search-input svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  /* ============ checkout page ends ========== */
+
+  /* ============ dashboard css starts ============ */
+
+  .dashboard-left-sidebar {
+    width: 75%;
+    position: absolute;
+    padding-top: 26px;
+    transform: translateX(-100%);
+    transition: ease-in-out 0.4s;
+  }
+
+  .dashboard-menu-row {
+    padding-bottom: 28px;
+  }
+
+  .dashboard-left-sidebar {
+    height: calc(100vh - 66px);
+  }
+
+  .sm-dashboard-link {
+    padding-bottom: 24px;
+  }
+
+  .dashboard-right-content {
+    width: 100%;
+    height: 100%;
+    color: white;
+    border-left: 0px solid #1d1d1d;
+    padding: 20px 10px;
+  }
+
+  .seller-dashboard-wrapper {
+    display: flex;
+    position: relative;
+  }
+
+  .status-svg-container {
+    text-wrap: nowrap;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 10px;
+    padding: 20px 5px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    height: 60px;
+    padding: 10px 12px;
+  }
+
+  .sm-logged-profile-container {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-1 {
+    gap: 12px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    gap: 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-2 {
+    height: 62px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-container-3 {
+    height: 62px;
+    padding: 10px 12px;
+  }
+
+  .dashboard-right-content-wrapper .dashboard-right-content-title {
+    font-size: 24px;
+  }
+
+  .dashboard-right-content-wrapper .tracking-wrapper .box-normal {
+    font-size: 15px;
+  }
+  .dashboard-right-content-wrapper .tracking-wrapper .box-active {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-arrived {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-verified {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-3
+    .box-completed {
+    font-size: 15px;
+  }
+
+  .seller-table-container table .table-body-row .product-detail-text {
+    text-wrap: nowrap;
+  }
+
+  .seller-table-container table .seller-table-button-container {
+    display: flex;
+    gap: 14px;
+  }
+
+  .dashboard-right-title-and-nav-icon-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .dashboard-right-title-and-nav-icon-container svg {
+    width: 22px;
+    height: 22px;
+    fill: white;
+  }
+
+  .seller-table-container table .client-table-button-container {
+    gap: 20px;
+  }
+
+  .dashboard-nav-icon-container {
+    padding: 5px 5px;
+    border-radius: 5px;
+    background: var(
+      --Gradient,
+      linear-gradient(180deg, #fff771 -154.17%, #e79a09 100%)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .seller-table-container table tr th {
+    font-size: 16px;
+  }
+
+  .seller-table-container table .table-heading {
+    height: 60px;
+  }
+
+  .seller-table-container table .table-body-row td {
+    font-size: 14px;
+    padding: 16px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .csv-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .details-button {
+    font-size: 14px;
+  }
+
+  .seller-table-container table .client-table-button-container .cancel-button {
+    font-size: 14px;
+  }
+
+  .sm-dashboard-link h4 {
+    font-size: 15px;
+  }
+
+  .dashboard-menu-row a {
+    font-size: 16px;
+  }
+
+  .accordion-button span h4 {
+    font-size: 16px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-1
+    .box-approved {
+    font-size: 15px;
+  }
+
+  .dashboard-right-content-wrapper
+    .tracking-wrapper
+    .box-container-2
+    .box-shipped {
+    font-size: 15px;
+  }
+
+  /* ============ dashboard css ends ============ */
+
+  /* ============= accoount page css starts =========== */
+
+  .account-image-container {
+    height: 120px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-image-container {
+    width: 90px;
+    height: 90px;
+  }
+
+  .account-profile-image-and-text-container {
+    bottom: -80px;
+    gap: 10px;
+  }
+
+  .account-profile-image-and-text-container .account-profile-text-container h4 {
+    font-size: 20px;
+  }
+
+  .seller-account-info-row-3 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-row-4 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+
+  .seller-account-info-row-2 {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    padding-bottom: 21px;
+  }
+
+  .seller-account-info-container {
+    padding: 28px 18px;
+    margin-top: 120px;
+  }
+
+  .seller-account-info-row-2 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-3 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-4 label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .seller-account-info-row-2 input {
+    padding: 12px 19px;
+  }
+
+  .seller-account-info-row-3 input {
+    padding: 12px 19px;
+  }
+
+  .seller-account-info-row-4 input {
+    padding: 12px 19px;
+  }
+
+  .account-info-edit-btn-container svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .seller-account-info-row-1 .account-info-edit-btn-container span {
+    font-size: 16px;
+  }
+
+  .seller-account-info-row-4 select {
+    padding: 8px 19px;
+  }
+
+  .sm-navbar-wrapper .dashboard-nav-icon-container {
+    width: 30px;
+    height: 30px;
+    margin-right: -20px;
+  }
+  .sm-navbar-wrapper .dashboard-nav-icon-container svg {
+    fill: white;
+  }
+
+  /* ============= accoount page css ends  =========== */
+
+  /* ============= sign up page css starts ============ */
+
+  .sm-signup-wrapper {
+    flex-direction: column;
+    padding: 20px 0px;
+  }
+
+  .signup-left {
+    background: #111;
+    padding: 52px;
+    width: 100%;
+  }
+
+  .signup-left h2 {
+    font-size: 28px;
+    padding-top: 20px;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .signup-left h2 span {
+    font-size: 30px;
+  }
+
+  .signup-right .signup-title {
+    font-size: 30px;
+    padding-bottom: 16px;
+  }
+
+  .signup-right form input {
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+
+  .signup-left {
+    padding: 28px;
+  }
+
+  .signup-right .signup-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right .signup-btn-row {
+    gap: 0px;
+    flex-direction: column;
+  }
+
+  .signup-right {
+    padding: 30px 20px;
+  }
+
+  .sm-signup-section-wrapper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .signup-right form .signup-btn button {
+    font-size: 18px;
+    padding: 8px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right .google-signup-container button {
+    font-size: 18px;
+    padding: 8px 0px;
+    margin-top: 20px;
+  }
+
+  .signup-right form label {
+    font-size: 16px;
+    padding-bottom: 4px;
+  }
+
+  .signup-right li {
+    font-size: 12px;
+    padding-top: 16px;
+    text-indent: -20px;
+    padding-left: 23px;
+  }
+
+  /* ============= sign up page css ends ============ */
+
+  /* ============ login css starts ================= */
+
+  .sm-login-section-wrapper {
+    height: 100%;
+  }
+
+  .sm-login-wrapper {
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .login-left {
+    padding: 20px;
+    padding-top: 40px;
+  }
+
+  .login-left h2 {
+    font-size: 28px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .login-left h2 span {
+    font-size: 28px;
+  }
+
+  .login-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .signup-yellow-circle-container {
+    width: 250px;
+    height: 250px;
+  }
+
+  .login-right {
+    padding: 30px 20px;
+    width: 100%;
+  }
+
+  .login-right .login-title {
+    font-size: 32px;
+    padding-bottom: 20px;
+  }
+
+  .login-right form input {
+    padding: 12px;
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  .login-right form label {
+    font-size: 16px;
+    padding-bottom: 10px;
+  }
+
+  .login-right form .login-btn button {
+    font-size: 18px;
+    padding: 10px 0px;
+    margin-top: 30px;
+  }
+
+  .login-right .google-login-container button {
+    font-size: 18px;
+    padding: 9px 0px;
+    margin: 20px 0px 10px 0px;
+  }
+
+  /* ============ login css ends ================= */
+
+  /* =========== notification modal css starts ========= */
+
+  .notification-modal-body {
+    padding: 24px 20px;
+    width: 100%;
+  }
+
+  .view-and-clear-all-container h4 {
+    font-size: 16px;
+  }
+
+  .notification-modal-body .notification-row {
+    padding: 18px 13px;
+    gap: 10px;
+    margin-bottom: 6px;
+  }
+
+  .notification-modal-body .notification-row h4 {
+    font-size: 15px;
+  }
+
+  /* =========== notification modal css ends ========= */
+
+  /* =========== details modal css starts ============ */
+
+  .seller-details-modal-body {
+    background: #282828;
+    padding: 18px;
+    position: relative;
+    width: 100%;
+  }
+
+  .seller-details-modal-body .seller-total-title {
+    font-size: 26px;
+    padding-bottom: 24px;
+  }
+
+  .total-calculation-container .total-price {
+    font-size: 24px;
+  }
+
+  .seller-details-table-container {
+    overflow-x: scroll;
+  }
+
+  .seller-details-table-container table .product-name,
+  .product-size,
+  .product-pair {
+    font-size: 14px;
+    text-wrap: nowrap;
+  }
+
+  .seller-details-modal-close-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+  }
+
+  .seller-table-container table .seller-table-button-container button {
+    margin-left: 10px;
+  }
+
+  .seller-details-table-heading th {
+    font-size: 16px;
+    text-wrap: nowrap;
+  }
+
+  .download-label-and-submit-btn-container {
+    gap: 8px;
+    padding-top: 20px;
+  }
+
+  .download-label-and-submit-btn-container .submit-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  .submit-btn-instruction-li-text {
+    font-size: 10px;
+    /* padding-top: 10px; */
+    text-indent: -13px;
+    width: 72%;
+    padding-left: 14px;
+  }
+
+  /* =========== details modal css ends ============ */
+
+  /* ============== checkout submit form modal ========== */
+
+  .download-label-and-submit-btn-container .download-label-btn {
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 75%;
+  }
+
+  /* ============== checkout submit form modal ========== */
+}
